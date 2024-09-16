@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+CommunityHall,3.6,5.0,30.694185,76.757537,GovernmentBuilding,CityHall,2,18,13590.999999999998,3.0
+DancescapesbySrishti,5.0,16.0,30.694554,76.757821,EducationalInstitute,DanceSchool,2,18,13590.999999999998,4.526315789473684
+ANIApartments,4.2,130.0,30.693805,76.757912,EducationalInstitute,University,2,18,13590.999999999998,4.15037593984962
+TravelTrekAdventures,2.7,6.0,30.693194,76.757697,Office,TravelAgency,2,18,13590.999999999998,2.466666666666667

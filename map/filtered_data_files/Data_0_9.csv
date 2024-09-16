@@ -1,0 +1,10 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+MandarinOakPhase11Mohali,5.0,1.0,30.676698,76.748262,Restaurant,Buffet,0,9,6522.4000000000015,2.75
+Phase-11(Mohali),5.0,1.0,30.677279,76.748269,Transportation,RailwayStation,0,9,6522.4000000000015,2.75
+AxisBankATM,5.0,1.0,30.679264,76.747697,FinancialInstitution,ATM,0,9,6522.4000000000015,2.75
+VardanHomeCare,1.0,1.0,30.678969,76.747253,Hospital,RehabilitationCenter,0,9,6522.4000000000015,1.75
+HairSquareUnisexSalon,4.7,92.0,30.678468,76.747818,PersonalCare,HairSalon,0,9,6522.4000000000015,4.614736842105256
+ExpertDrivingSchool(Govt.Registered),4.4,80.0,30.678287,76.747528,EducationalInstitute,DrivingSchool,0,9,6522.4000000000015,4.31325301204819
+HairSquareUnisexSalon,4.7,92.0,30.678468,76.747818,Shop,BeautyParlour,0,9,6522.4000000000015,4.614736842105256
+JBMediaPvtLtd,5.0,10.0,30.676374,76.747985,Office,MediaCompany,0,9,6522.4000000000015,4.307692307692308
+HOTELCANDY,3.9,807.0,30.676398,76.74802,Hotel,Hotels,0,9,6522.4000000000015,3.892962962963019

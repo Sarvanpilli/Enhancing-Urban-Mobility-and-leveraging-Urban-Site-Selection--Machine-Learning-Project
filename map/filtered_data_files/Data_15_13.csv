@@ -1,0 +1,4 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+PandhiHospital,3.8,213.0,30.726595,76.752364,Hospital,Children'sHospital,15,13,7418.600000000001,3.774999999999989
+PandhiHospital,3.8,213.0,30.726595,76.752364,Hospital,RehabilitationCenter,15,13,7418.600000000001,3.774999999999989
+PanchkulaAdvertising,4.6,8.0,30.727662,76.752592,Office,AdvertisingAgency,15,13,7418.600000000001,3.890909090909091

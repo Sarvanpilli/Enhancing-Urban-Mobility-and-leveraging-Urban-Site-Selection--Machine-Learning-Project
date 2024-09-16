@@ -1,0 +1,6 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+TheCafeEstate,5.0,2.0,30.698887,76.755258,Restaurant,Cafe,4,16,13184.999999999996,3.2
+MagneticHands:APhysiotherapyandWellnessClinic,5.0,237.0,30.698887,76.755258,Hospital,RehabilitationCenter,4,16,13184.999999999996,4.9625
+MagneticHands:APhysiotherapyandWellnessClinic,5.0,237.0,30.698887,76.755258,Hospital,MaternityHospital,4,16,13184.999999999996,4.9625
+OnlineNutritionistandFitnessTrainerinIndia,4.9,62.0,30.698887,76.755258,Fitness&Wellness,Gym,4,16,13184.999999999996,4.766153846153847
+TheChhaviDanceNFitnessStudio,5.0,1.0,30.698887,76.755258,EducationalInstitute,DanceSchool,4,16,13184.999999999996,2.75

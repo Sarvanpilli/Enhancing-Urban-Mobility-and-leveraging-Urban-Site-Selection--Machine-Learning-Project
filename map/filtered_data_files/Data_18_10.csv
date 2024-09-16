@@ -1,0 +1,9 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+TengFastFoodCorner,4.6,8.0,30.734964,76.748732,Restaurant,FastFood,18,10,8299.0,3.890909090909091
+GurudwaraSriGuruSinghSabha,4.7,409.0,30.735206,76.74889,PilgrimagePlace,Gurudwara,18,10,8299.0,4.680339805825273
+"Football,HockeyAndCricketAcademy",4.1,49.0,30.735615,76.748702,EventVenue,Stadium,18,10,8299.0,3.978846153846151
+TLHDrycleaners,5.0,1.0,30.735615,76.748702,PersonalCare,Laundry,18,10,8299.0,2.75
+ChandigarhGroupofCollegesCityOffice,3.7,3.0,30.735667,76.749316,EducationalInstitute,College,18,10,8299.0,2.85
+ChandigarhGroupofCollegesCityOffice,3.7,3.0,30.735667,76.749316,EducationalInstitute,University,18,10,8299.0,2.85
+EmeraldMartialArtsAcademy,4.8,27.0,30.73527,76.74878,EducationalInstitute,ArtSchool,18,10,8299.0,4.519999999999999
+Khannasound(djRishi),5.0,1.0,30.735001,76.748317,EducationalInstitute,MusicSchool,18,10,8299.0,2.75

@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+VitaMilkBar,4.4,91.0,30.696768,76.745337,Restaurant,Bar,3,7,10819.000000000004,4.323404255319144
+VitaMilkBar,4.4,91.0,30.696768,76.745337,Restaurant,IceCreamParlor,3,7,10819.000000000004,4.323404255319144
+GovernmentCollegeOfCommerce&BusinessAdministration,4.3,245.0,30.69685,76.745756,EducationalInstitute,College,3,7,10819.000000000004,4.272177419354819
+GovernmentCollegeOfCommerce&BusinessAdministration,4.3,245.0,30.69685,76.745756,EducationalInstitute,University,3,7,10819.000000000004,4.272177419354819

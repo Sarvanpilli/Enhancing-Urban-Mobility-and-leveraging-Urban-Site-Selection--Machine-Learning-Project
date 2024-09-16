@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+"Govt.ModelHighSchool,sector49D,Chandigarh",4.3,31.0,30.692818,76.749636,EducationalInstitute,School,1,11,9724.6,4.0970588235294105
+DJpardhanChandigarh,5.0,1.0,30.690958,76.750261,EducationalInstitute,MusicSchool,1,11,9724.6,2.75
+Excellentdrivingschool,5.0,1.0,30.692012,76.749924,EducationalInstitute,DrivingSchool,1,11,9724.6,2.75
+B,5.0,1.0,30.690909,76.750323,Office,CorporateOffice,1,11,9724.6,2.75

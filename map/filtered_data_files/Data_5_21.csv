@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Park21,4.2,29.0,30.702992,76.761458,Entertainment,Zoo,5,21,12229.8,3.9937500000000017
+GovernmentModelSeniorSecondarySchool,4.1,132.0,30.701527,76.761454,EducationalInstitute,School,5,21,12229.8,4.053333333333343
+GovernmentMiddleSchool,4.0,10.0,30.70248,76.760884,EducationalInstitute,School,5,21,12229.8,3.5384615384615383
+IIFC,5.0,1.0,30.70097,76.760622,EducationalInstitute,College,5,21,12229.8,2.75

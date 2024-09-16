@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+ChaudharyBhopalSinghStadium,3.9,318.0,30.705398,76.761385,EventVenue,Stadium,6,21,12190.8,3.8822429906542086
+CivilHospitalSector45,3.0,185.0,30.704226,76.761116,Hospital,GeneralHospital,6,21,12190.8,2.984042553191489
+ChaudharyBhopalSinghStadium,3.9,318.0,30.705398,76.761385,Entertainment,SportsComplex,6,21,12190.8,3.8822429906542086
+CGHSWellnessCentre,3.4,173.0,30.704354,76.760663,Office,Co-workingSpace,6,21,12190.8,3.376136363636353

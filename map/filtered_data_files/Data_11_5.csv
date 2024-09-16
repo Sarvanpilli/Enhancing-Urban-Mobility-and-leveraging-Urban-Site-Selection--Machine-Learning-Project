@@ -1,0 +1,10 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+BusStation43Chandigarh,4.3,2387.0,30.716564,76.743267,Transportation,RailwayStation,11,5,9548.4,4.297112970711253
+GeneralBusStand,3.9,25.0,30.716356,76.743876,Transportation,RailwayStation,11,5,9548.4,3.696428571428573
+ISBTSector43,4.4,1314.0,30.716731,76.742992,Transportation,Airport,11,5,9548.4,4.394533029612695
+ISBTSector-43,4.3,1887.0,30.717167,76.743415,Transportation,Airport,11,5,9548.4,4.296349206349334
+BusStandSector43,4.3,1982.0,30.716119,76.743098,Transportation,Airport,11,5,9548.4,4.296523929471128
+LocalBusStandSec43,4.2,110.0,30.717316,76.743575,Transportation,Airport,11,5,9548.4,4.141592920353975
+BusStation43Chandigarh,5.0,1.0,30.716564,76.743267,Transportation,RailwayStation,11,5,9548.4,2.75
+GeneralBusStand,5.0,1.0,30.716356,76.743876,Transportation,RailwayStation,11,5,9548.4,2.75
+ISBTSector-43,5.0,1.0,30.717167,76.743415,Transportation,RailwayStation,11,5,9548.4,2.75

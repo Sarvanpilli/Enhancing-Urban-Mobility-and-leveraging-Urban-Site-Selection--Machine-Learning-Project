@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+StateBankOfIndiaATM,5.0,1.0,30.693399,76.755941,FinancialInstitution,ATM,2,16,13609.400000000003,2.75
+Dr.AnupamGoel(Gynaecologist&IVFSpecialist),4.7,64.0,30.693399,76.755912,Hospital,Children'sHospital,2,16,13609.400000000003,4.579104477611935
+Dr.AnupamGoel(Gynaecologist&IVFSpecialist),4.7,64.0,30.693399,76.755912,Hospital,MaternityHospital,2,16,13609.400000000003,4.579104477611935
+BombayFootwear,5.0,1.0,30.693159,76.755251,Shop,ShoeStore,2,16,13609.400000000003,2.75

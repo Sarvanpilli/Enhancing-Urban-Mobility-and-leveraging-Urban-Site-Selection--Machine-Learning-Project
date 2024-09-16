@@ -1,0 +1,12 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+BottomsUp,4.0,83.0,30.713097,76.751858,Restaurant,Bar,9,13,9603.000000000002,3.930232558139535
+BottomsUp,4.0,83.0,30.713097,76.751858,Restaurant,Pub,9,13,9603.000000000002,3.930232558139535
+StateBankofIndiaSEC-44-CCHANDIGARH,4.6,9.0,30.713141,76.751836,FinancialInstitution,Bank,9,13,9603.000000000002,3.9500000000000006
+VetStation,4.7,24.0,30.712556,76.752077,Hospital,VeterinaryClinic,9,13,9603.000000000002,4.400000000000001
+SinghDrChanchalBir,2.0,25.0,30.712717,76.752408,Hospital,VeterinaryClinic,9,13,9603.000000000002,2.0
+YogicAmritdhara,5.0,34.0,30.71271,76.75214,Fitness&Wellness,YogaStudio,9,13,9603.000000000002,4.756756756756757
+"ProUltimateGyms-Sector44-C,Chandigarh",4.9,61.0,30.712854,76.751928,Fitness&Wellness,Gym,9,13,9603.000000000002,4.7640625000000005
+SalonDaEvolve|BestSkin&HairTreatmentsinTricity,4.9,115.0,30.713124,76.75185,PersonalCare,HairSalon,9,13,9603.000000000002,4.826271186440668
+"CleopatraSpa,SalonAndMakeupStudio",4.4,694.0,30.712741,76.752132,PersonalCare,HairSalon,9,13,9603.000000000002,4.389670014347257
+LuckyDrivingSchoolChandigarh,4.7,119.0,30.711397,76.752659,EducationalInstitute,DrivingSchool,9,13,9603.000000000002,4.633606557377046
+"CleopatraSpa,SalonAndMakeupStudio",4.4,694.0,30.712741,76.752132,Shop,BeautyParlour,9,13,9603.000000000002,4.389670014347257

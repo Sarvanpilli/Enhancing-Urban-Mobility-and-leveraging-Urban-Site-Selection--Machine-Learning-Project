@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+IndianOil,4.1,2027.0,30.696984,76.758506,FuelStation,PetrolPump,3,19,13801.8,4.09689655172429
+MaanVehiclePollutionCheckCentre49,4.0,40.0,30.697025,76.758798,FuelStation,PetrolPump,3,19,13801.8,3.86046511627907
+IndianOil,4.1,2027.0,30.696984,76.758506,FuelStation,LPGStation,3,19,13801.8,4.09689655172429
+"BIKEINSURANCE,CARINSURANCE",5.0,6.0,30.697002,76.75866,Office,InsuranceAgency,3,19,13801.8,4.0

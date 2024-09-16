@@ -1,0 +1,15 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+BurgerKing,4.5,1560.0,30.709629,76.721275,Restaurant,FastFood,8,0,6923.4,4.495201535508637
+Burgrill,4.2,481.0,30.710211,76.721808,Restaurant,FastFood,8,0,6923.4,4.186363636363668
+CafÃ¯Â¿Â½CoffeeDay,4.1,728.0,30.709815,76.721278,Restaurant,Cafe,8,0,6923.4,4.091381668946594
+BibiBhaniGurdwara,4.7,166.0,30.709347,76.72973,PilgrimagePlace,Gurudwara,8,0,6923.4,4.65207100591717
+ShriLaxmiNarayanMandir&Dharamshala,4.8,730.0,30.709361,76.718114,PilgrimagePlace,Temple,8,0,6923.4,4.788540245566223
+ArenaAnimationMohali,3.6,21.0,30.709015,76.722404,EventVenue,Arena,8,0,6923.4,3.4
+PolicePost-Sector61,5.0,1.0,30.710435,76.729914,GovernmentBuilding,PoliceStation,8,0,6923.4,2.75
+MIGflatsPark,4.3,371.0,30.708339,76.731397,OutdoorSpace,Park,8,0,6923.4,4.28155080213901
+EktaPark,4.0,216.0,30.710096,76.726899,OutdoorSpace,Park,8,0,6923.4,3.9726027397260273
+GemPublicSchool,4.5,99.0,30.7105,76.719945,EducationalInstitute,School,8,0,6923.4,4.426470588235294
+IndusPharmacy,3.9,44.0,30.708909,76.722489,Shop,Pharmacy,8,0,6923.4,3.778723404255322
+ClassicBooks&Stationers-GiftsandToys,4.3,626.0,30.709641,76.721299,Shop,Stationery,8,0,6923.4,4.2890302066772845
+CyberChord|SocialMediaCompanyinMohali,4.6,24.0,30.709361,76.707003,Office,MediaCompany,8,0,6923.4,4.311111111111109
+"LIFEINSURANCECONSULTANTATLICOFINDIA,LICADVISOR",5.0,9.0,30.710017,76.733152,Office,InsuranceAgency,8,0,6923.4,4.25

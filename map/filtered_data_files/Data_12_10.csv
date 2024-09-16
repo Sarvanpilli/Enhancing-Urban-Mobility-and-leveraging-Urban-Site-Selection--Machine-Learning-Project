@@ -1,0 +1,8 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+CentralReservePoliceForce,5.0,1.0,30.718577,76.74899,GovernmentBuilding,PoliceStation,12,10,8129.2,2.75
+PermanentLokAdalat(PUS)Chandigarh,3.0,3.0,30.719058,76.748704,GovernmentBuilding,Courthouse,12,10,8129.2,2.5
+NitinHealthcareServices,5.0,1.0,30.719058,76.748704,Hospital,MentalHealthClinic,12,10,8129.2,2.75
+WelcomeTourist,5.0,2.0,30.719058,76.748704,Entertainment,Museum,12,10,8129.2,3.2
+Chandigarhuniversityofficesector43,5.0,1.0,30.719058,76.748704,EducationalInstitute,University,12,10,8129.2,2.75
+NYAYALEGALFIRM,5.0,28.0,30.719058,76.748704,Office,LawFirm,12,10,8129.2,4.709677419354839
+KARAMPAATHFOUNDATION,5.0,1.0,30.719058,76.748704,Office,Non-ProfitOrganization,12,10,8129.2,2.75

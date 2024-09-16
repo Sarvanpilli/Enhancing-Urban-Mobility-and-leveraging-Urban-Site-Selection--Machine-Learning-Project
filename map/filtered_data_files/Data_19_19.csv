@@ -1,0 +1,7 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+AllianceFrancaisedeChandigarh,4.6,279.0,30.735877,76.758365,GovernmentBuilding,Library,19,19,8048.0,4.57234042553191
+Oxyzoneyogacentre,2.0,2.0,30.736725,76.758222,Fitness&Wellness,Gym,19,19,8048.0,2.0
+Oxyzoneyogacentre,2.0,2.0,30.736725,76.758222,Fitness&Wellness,YogaStudio,19,19,8048.0,2.0
+AllianceFrancaisedeChandigarh,4.6,279.0,30.735877,76.758365,EducationalInstitute,MusicSchool,19,19,8048.0,4.57234042553191
+AllianceFrancaisedeChandigarh,4.6,279.0,30.735877,76.758365,EducationalInstitute,ArtSchool,19,19,8048.0,4.57234042553191
+AllianceFrancaisedeChandigarh,4.6,279.0,30.735877,76.758365,Office,Co-workingSpace,19,19,8048.0,4.57234042553191

@@ -1,0 +1,4 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+ELEVENSES(AUnitByChefMG),5.0,6.0,30.734946,76.746672,Restaurant,IceCreamParlor,18,8,8897.0,4.0
+PublicPark,4.2,133.0,30.73404,76.746387,OutdoorSpace,Park,18,8,8897.0,4.151470588235291
+Outfinity,4.7,7.0,30.733557,76.747001,Office,CorporateOffice,18,8,8897.0,3.89

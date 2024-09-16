@@ -1,0 +1,7 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+"SanatanDharamMandir,sector38C",4.8,82.0,30.741735,76.743621,PilgrimagePlace,Temple,21,5,9526.8,4.701176470588242
+AxisBankBranch,3.7,32.0,30.742868,76.743594,FinancialInstitution,Bank,21,5,9526.8,3.554285714285716
+AdvaitYogSiddhant,4.8,17.0,30.741737,76.743132,Fitness&Wellness,YogaStudio,21,5,9526.8,4.379999999999999
+S.D.SAINIPUBLICSCHOOL,4.1,37.0,30.741281,76.742794,EducationalInstitute,School,21,5,9526.8,3.9424999999999977
+HotelSuperPalace,4.0,4.0,30.742868,76.743594,Hotel,Hotels,21,5,9526.8,3.142857142857143
+WelcomeResidency,5.0,1.0,30.742868,76.743594,Hotel,Hotels,21,5,9526.8,2.75

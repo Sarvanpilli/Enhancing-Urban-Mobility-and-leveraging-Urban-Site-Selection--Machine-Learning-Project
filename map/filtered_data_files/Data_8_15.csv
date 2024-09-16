@@ -1,0 +1,9 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Sector44/45,5.0,1.0,30.708795,76.754449,Transportation,BusStop,8,15,10452.000000000002,2.75
+AyuHealthHospitals,5.0,3.0,30.710579,76.754281,Hospital,GeneralHospital,8,15,10452.000000000002,3.5
+"MotherhoodChaitanyaHospital-Sector44,Chandigarh",4.7,2600.0,30.710626,76.754296,Hospital,Children'sHospital,8,15,10452.000000000002,4.696888205916404
+"MotherhoodChaitanyaHospital-Sector44,Chandigarh",4.7,2600.0,30.710626,76.754296,Hospital,MaternityHospital,8,15,10452.000000000002,4.696888205916404
+"MotherhoodChaitanyaHospital-Sector44,Chandigarh",4.7,2600.0,30.710626,76.754296,Hospital,EyeClinic,8,15,10452.000000000002,4.696888205916404
+SpiralPETCTScanandMRICenter,3.5,249.0,30.710485,76.754207,Hospital,EyeClinic,8,15,10452.000000000002,3.482142857142857
+IPGGroup,5.0,1.0,30.710504,76.754506,Office,CorporateOffice,8,15,10452.000000000002,2.75
+PanjaSahibTravels,4.6,22.0,30.710056,76.754781,Office,TravelAgency,8,15,10452.000000000002,4.287999999999999

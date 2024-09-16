@@ -1,0 +1,11 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+ShivaniSweet,5.0,3.0,30.683108,76.76366,Restaurant,Cafe,0,23,6695.199999999999,3.5
+ShivaniSweet,5.0,3.0,30.683108,76.76366,Restaurant,IceCreamParlor,0,23,6695.199999999999,3.5
+ShivaniSweet,5.0,3.0,30.683108,76.76366,Restaurant,FastFood,0,23,6695.199999999999,3.5
+Sector-48B(Opposite),5.0,1.0,30.686574,76.762656,Transportation,BusStop,0,23,6695.199999999999,2.75
+HeritageHighPublicSchool,4.2,18.0,30.683079,76.763576,EducationalInstitute,College,0,23,6695.199999999999,3.885714285714287
+HeritageHighPublicSchool,4.2,18.0,30.683079,76.763576,EducationalInstitute,School,0,23,6695.199999999999,3.885714285714287
+DENTALCLINIC,5.0,1.0,30.682803,76.763523,EducationalInstitute,College,0,23,6695.199999999999,2.75
+FOREVERDRIVINGSCHOOL,4.5,4.0,30.688783,76.763634,EducationalInstitute,DrivingSchool,0,23,6695.199999999999,3.4285714285714284
+Gillmedicalhall,5.0,1.0,30.682935,76.762741,Shop,Pharmacy,0,23,6695.199999999999,2.75
+Queenfashionhouse,5.0,1.0,30.683299,76.76359,Shop,Clothing,0,23,6695.199999999999,2.75

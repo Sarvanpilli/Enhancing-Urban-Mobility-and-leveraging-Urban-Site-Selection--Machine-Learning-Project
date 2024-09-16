@@ -1,0 +1,11 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Lunch,3.0,2.0,30.687978,76.760036,Restaurant,Cafe,0,20,9365.400000000003,2.4
+juicecorner,3.9,7.0,30.687761,76.760357,Restaurant,Bar,0,20,9365.400000000003,3.33
+FeelingHungry,3.7,97.0,30.68661,76.759526,Restaurant,Bar,0,20,9365.400000000003,3.648999999999994
+FeelingHungry,3.7,97.0,30.68661,76.759526,Restaurant,FastFood,0,20,9365.400000000003,3.648999999999994
+Sector-48APark,4.3,545.0,30.689783,76.759544,Entertainment,AmusementPark,0,20,9365.400000000003,4.287408759124083
+Sector-48APark,4.3,545.0,30.689783,76.759544,OutdoorSpace,Park,0,20,9365.400000000003,4.287408759124083
+VriddhiSchool,5.0,4.0,30.683314,76.760232,EducationalInstitute,School,0,20,9365.400000000003,3.7142857142857135
+Haidarystationaryandbookcenter,5.0,1.0,30.687387,76.760141,Shop,Stationery,0,20,9365.400000000003,2.75
+Haidarystationaryandbookcenter,5.0,1.0,30.687387,76.760141,Shop,Diary,0,20,9365.400000000003,2.75
+TempoTravllerinChandigarh/9To12SeaterTempoTraveller/RentTempoTravller-ABROLTOUR&TRAVELs,3.8,15.0,30.687143,76.760186,Office,TravelAgency,0,20,9365.400000000003,3.499999999999999

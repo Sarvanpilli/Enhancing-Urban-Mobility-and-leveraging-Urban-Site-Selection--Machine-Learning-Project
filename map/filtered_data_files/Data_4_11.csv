@@ -1,0 +1,4 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+ThePositiveMindz,5.0,1.0,30.698965,76.749587,Hospital,MentalHealthClinic,4,11,12030.0,2.75
+GovernmentSmartHighSchool,4.0,59.0,30.699993,76.74987,EducationalInstitute,College,4,11,12030.0,3.903225806451613
+HDFCERGOInsuranceAgent:BalvinderSingh,5.0,1.0,30.698965,76.749587,Office,InsuranceAgency,4,11,12030.0,2.75

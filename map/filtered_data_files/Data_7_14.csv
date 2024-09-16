@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+SomaTourandTravel,4.7,19.0,30.706055,76.753198,Transportation,Airport,7,14,10507.6,4.331818181818183
+ChandigarhBaptistSeniorSecondarySchool,4.7,308.0,30.706952,76.752949,EducationalInstitute,School,7,14,10507.6,4.673954983922855
+ChandigarhBaptistSeniorSecondarySchool,4.7,308.0,30.706952,76.752949,EducationalInstitute,College,7,14,10507.6,4.673954983922855
+"Insurance&Thirdparty,VikasBansalInsuranceService(VBIS)",5.0,1.0,30.706952,76.752949,Office,InsuranceAgency,7,14,10507.6,2.75

@@ -1,0 +1,17 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Town'sKingFastFood,3.3,76.0,30.714416,76.751756,Restaurant,FastFood,10,13,9121.4,3.250632911392409
+Classic44-ThePremiumBakings,4.1,692.0,30.714891,76.751646,Restaurant,Bakery,10,13,9121.4,4.090935251798509
+Shots,4.5,19.0,30.713209,76.751783,Restaurant,Pub,10,13,9121.4,4.159090909090909
+Shots,4.5,19.0,30.713209,76.751783,Restaurant,Bar,10,13,9121.4,4.159090909090909
+Sector44Market,5.0,1.0,30.713187,76.752345,Transportation,BusStop,10,13,9121.4,2.75
+DentistInChandigargh-TricityDentalClinic-BestDentalClinicInChandigarh,5.0,237.0,30.713407,76.751625,Hospital,DentalClinic,10,13,9121.4,4.9625
+DheerDentalClinic-BestDentalClinicinChandigarh|BestDentistinChandigarh,4.8,165.0,30.713402,76.751608,Hospital,DentalClinic,10,13,9121.4,4.749999999999989
+LalJiDry-Cleaners,2.4,7.0,30.714871,76.751635,PersonalCare,Laundry,10,13,9121.4,2.28
+GOLDENBOXDRYCLEANERS,3.0,2.0,30.713459,76.751875,PersonalCare,Laundry,10,13,9121.4,2.4
+FeminaPlusSalon&HairWigs|BestBeautySalon|SpaServicesSalon|Makeupsalon|BestSkincareSaloninchandigarh,4.1,321.0,30.713311,76.751685,PersonalCare,HairSalon,10,13,9121.4,4.080555555555548
+DHANOADRIVING,4.8,61.0,30.714496,76.752099,EducationalInstitute,DrivingSchool,10,13,9121.4,4.6687500000000055
+ZimindaraDrivingSchool,4.4,67.0,30.714503,76.752093,EducationalInstitute,DrivingSchool,10,13,9121.4,4.297142857142857
+Healthmartpharmacy,5.0,1.0,30.714896,76.751661,Shop,Pharmacy,10,13,9121.4,2.75
+ParasMedicalStore,4.9,39.0,30.714281,76.751727,Shop,Pharmacy,10,13,9121.4,4.692857142857146
+ClothingstorChandigarh,5.0,1.0,30.71477,76.751669,Shop,Clothing,10,13,9121.4,2.75
+AdvocateSukhbirSinghHooda,5.0,1936.0,30.715382,76.751911,Office,LawFirm,10,13,9121.4,4.995358432181537

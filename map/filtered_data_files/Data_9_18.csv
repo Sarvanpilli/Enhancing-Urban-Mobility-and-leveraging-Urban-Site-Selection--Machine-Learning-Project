@@ -1,0 +1,11 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+RoundGlassFootballAcademy-TheBritishSchool-,4.3,21.0,30.711383,76.757399,EventVenue,Stadium,9,18,11101.4,4.012499999999998
+Stump'dBoxCricket,4.5,53.0,30.711131,76.757803,EventVenue,Stadium,9,18,11101.4,4.366071428571429
+Kickstart,4.5,93.0,30.711311,76.758171,EventVenue,Stadium,9,18,11101.4,4.421875
+SharmaToursAndTravel-TaxiService,4.9,132.0,30.711484,76.757359,Transportation,TaxiStand,9,18,11101.4,4.835555555555544
+ReflexGym,4.3,67.0,30.711383,76.757399,Fitness&Wellness,Gym,9,18,11101.4,4.201428571428576
+TheBritishSchool,3.6,195.0,30.711498,76.757344,EducationalInstitute,College,9,18,11101.4,3.575757575757589
+BridgeMusicAcademy,4.7,67.0,30.711275,76.75712,EducationalInstitute,ArtSchool,9,18,11101.4,4.584285714285709
+BridgeMusicAcademy,4.7,67.0,30.711275,76.75712,EducationalInstitute,MusicSchool,9,18,11101.4,4.584285714285709
+VishalSharmaAdvocate,5.0,11.0,30.712243,76.758036,Office,LawFirm,9,18,11101.4,4.357142857142857
+"FreelanceCasa,DigitalMarketingAgencyonFreeroids.",5.0,3.0,30.712921,76.757834,Office,MediaCompany,9,18,11101.4,3.5

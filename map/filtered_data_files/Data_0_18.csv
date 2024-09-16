@@ -1,0 +1,9 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+FastFoodKiosks(Idle),4.0,1.0,30.688726,76.757807,Restaurant,FastFood,0,18,9720.8,2.5
+Sector48A,5.0,1.0,30.687013,76.758199,Transportation,RailwayStation,0,18,9720.8,2.75
+PostOffice,2.2,6.0,30.68799,76.757497,GovernmentBuilding,PostOffice,0,18,9720.8,2.1333333333333333
+yogachandigarh,4.0,2.0,30.687911,76.758179,Fitness&Wellness,YogaStudio,0,18,9720.8,2.8
+SangeetKaSparsh,5.0,2.0,30.68946,76.758021,EducationalInstitute,MusicSchool,0,18,9720.8,3.2
+Leapwaters,5.0,13.0,30.687671,76.757219,EducationalInstitute,College,0,18,9720.8,4.4375
+SangeetKaSparsh,5.0,2.0,30.68946,76.758021,EducationalInstitute,ArtSchool,0,18,9720.8,3.2
+GrefCamp,4.2,13.0,30.685095,76.757905,Office,CorporateOffice,0,18,9720.8,3.787500000000001

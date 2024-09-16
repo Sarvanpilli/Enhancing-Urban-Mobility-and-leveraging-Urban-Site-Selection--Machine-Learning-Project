@@ -1,0 +1,6 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+IndianOil,3.9,949.0,30.742697,76.754974,FuelStation,PetrolPump,21,16,8515.599999999997,3.894012605042078
+PerfectPunture,5.0,1.0,30.74283,76.754919,FuelStation,PetrolPump,21,16,8515.599999999997,2.75
+IndianOil,3.9,949.0,30.742697,76.754974,FuelStation,LPGStation,21,16,8515.599999999997,3.894012605042078
+Dr.AmbedkarBhawan,4.5,136.0,30.741715,76.75547,GovernmentBuilding,Library,21,16,8515.599999999997,4.446043165467626
+BharatiyaJanataPartyPunjabState,4.1,134.0,30.742097,76.755245,Entertainment,Museum,21,16,8515.599999999997,4.054014598540156

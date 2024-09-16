@@ -1,0 +1,4 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+ParkSector46C,4.2,1706.0,30.700977,76.763408,EventVenue,Stadium,5,23,9122.4,4.196138092451606
+Sector46BusStop,5.0,1.0,30.702196,76.762964,Transportation,BusStop,5,23,9122.4,2.75
+ParkSector46C,4.2,1706.0,30.700977,76.763408,OutdoorSpace,Park,5,23,9122.4,4.196138092451606

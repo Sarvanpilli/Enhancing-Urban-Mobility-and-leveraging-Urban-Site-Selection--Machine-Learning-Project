@@ -1,0 +1,7 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+CakesbyShweta,5.0,28.0,30.683127,76.751146,Restaurant,IceCreamParlor,0,12,7856.6,4.709677419354839
+CakesbyShweta,5.0,28.0,30.683127,76.751146,Restaurant,Bakery,0,12,7856.6,4.709677419354839
+BestPriceRealty,5.0,4.0,30.675618,76.750734,FinancialInstitution,InvestmentFirm,0,12,7856.6,3.7142857142857135
+WyndhamChandigarhMohali,4.6,912.0,30.685115,76.750542,Hotel,BudgetHotel,0,12,7856.6,4.591475409836011
+WyndhamChandigarhMohali,4.6,912.0,30.685115,76.750542,Hotel,Hotels,0,12,7856.6,4.591475409836011
+WyndhamChandigarhMohali,4.6,912.0,30.685115,76.750542,Hotel,Hostelsforstayingnearme,0,12,7856.6,4.591475409836011

@@ -1,0 +1,6 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+SaiTour&Travels,4.6,615.0,30.744597,76.761113,Transportation,Airport,22,21,6905.0,4.587378640776648
+Sector24,5.0,1.0,30.744653,76.761064,Entertainment,MovieTheater,22,21,6905.0,2.75
+H.NStationery,5.0,32.0,30.745639,76.761327,Shop,Stationery,22,21,6905.0,4.742857142857143
+JasbirStationers,5.0,1.0,30.745567,76.761214,Shop,Stationery,22,21,6905.0,2.75
+SaiTour&Travels,4.6,615.0,30.744597,76.761113,Office,TravelAgency,22,21,6905.0,4.587378640776648

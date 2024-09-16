@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+StJoseph'sSeniorSecondarySchool,3.8,380.0,30.71204,76.750468,EducationalInstitute,School,9,11,9995.0,3.785900783289791
+SwarSadhnaSangeetKalaAcademy,3.6,20.0,30.713173,76.750295,EducationalInstitute,ArtSchool,9,11,9995.0,3.391304347826087
+SwarSadhnaSangeetKalaAcademy,3.6,20.0,30.713173,76.750295,EducationalInstitute,MusicSchool,9,11,9995.0,3.391304347826087
+SanjariSoftwarePvtLTD.,4.5,4.0,30.710688,76.750372,Office,CorporateOffice,9,11,9995.0,3.4285714285714284

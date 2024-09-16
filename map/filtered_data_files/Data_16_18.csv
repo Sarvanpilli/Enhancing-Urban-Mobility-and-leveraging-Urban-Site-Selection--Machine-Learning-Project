@@ -1,0 +1,9 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+GOPALFASTFOOD,4.3,4.0,30.729331,76.758147,Restaurant,FastFood,16,18,7856.400000000001,3.314285714285714
+WinniCakes&More,4.1,104.0,30.728958,76.758001,Restaurant,IceCreamParlor,16,18,7856.400000000001,4.0411214953271095
+GlobalAirways,4.6,25.0,30.729168,76.75783,Transportation,Airport,16,18,7856.400000000001,4.321428571428569
+Sector35/36,4.7,3.0,30.729566,76.757839,Transportation,Airport,16,18,7856.400000000001,3.35
+Sector36/35,3.3,6.0,30.729998,76.758103,Transportation,RailwayStation,16,18,7856.400000000001,2.8666666666666667
+KhukrainBhavan,4.1,87.0,30.728708,76.757165,GovernmentBuilding,CityHall,16,18,7856.400000000001,4.030000000000004
+CAPA-CakeuncleAcademyofPastryArts,4.3,100.0,30.729245,76.757787,EducationalInstitute,ArtSchool,16,18,7856.400000000001,4.233009708737871
+AllDesignSolution-VideoProductionCompany|CorporateFilm|Photography,4.8,34.0,30.728933,76.758152,EducationalInstitute,MusicSchool,16,18,7856.400000000001,4.572972972972974

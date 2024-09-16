@@ -1,0 +1,13 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+BakersBiteCafe,4.5,150.0,30.726054,76.758585,Restaurant,Bakery,15,19,7974.0,4.450980392156863
+TheCrownPatisserie-CakeStudio,3.7,47.0,30.728216,76.758615,Restaurant,Bakery,15,19,7974.0,3.5979999999999985
+BakersBiteCafe,4.5,150.0,30.726054,76.758585,Restaurant,IceCreamParlor,15,19,7974.0,4.450980392156863
+Sector35Market,5.0,1.0,30.726133,76.759084,Transportation,BusStop,15,19,7974.0,2.75
+BankofMaharashtraATM,5.0,1.0,30.726689,76.758314,FinancialInstitution,ATM,15,19,7974.0,2.75
+Sector35,5.0,1.0,30.726523,76.758858,Entertainment,MovieTheater,15,19,7974.0,2.75
+KhalsaDyersandDrycleanersChandigarh,4.6,92.0,30.726174,76.758672,PersonalCare,Laundry,15,19,7974.0,4.517894736842112
+NeelamHardwareStore,4.6,21.0,30.726005,76.758477,Shop,HardwareStore,15,19,7974.0,4.274999999999999
+RajindraElectronics,4.4,529.0,30.725975,76.758829,Shop,Electronics,15,19,7974.0,4.3864661654135775
+ChandigarhElectronics,4.6,36.0,30.725788,76.759057,Shop,Electronics,15,19,7974.0,4.399999999999997
+OmBookStore,4.0,113.0,30.726126,76.758421,Shop,Diary,15,19,7974.0,3.948275862068965
+LICPREMIUMCOLLECTIONOFFICE,5.0,4.0,30.726689,76.758314,Office,CorporateOffice,15,19,7974.0,3.7142857142857135

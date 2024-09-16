@@ -1,0 +1,8 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+"SUBWAY,SCO88",3.9,342.0,30.70077,76.764785,Restaurant,FastFood,5,24,6933.0,3.883478260869574
+SwarnDhaba,4.0,685.0,30.701131,76.764616,Restaurant,FineDining,5,24,6933.0,3.991279069767442
+"SUBWAY,SCO88",3.9,342.0,30.70077,76.764785,Restaurant,FineDining,5,24,6933.0,3.883478260869574
+Tavern,3.6,37.0,30.700848,76.764645,Restaurant,Bar,5,24,6933.0,3.4799999999999978
+Tejalice-cream,5.0,1.0,30.702115,76.764772,Restaurant,IceCreamParlor,5,24,6933.0,2.75
+SwarnDhaba,4.0,685.0,30.701131,76.764616,Restaurant,Buffet,5,24,6933.0,3.991279069767442
+B.hairtheunisexsalon,3.9,134.0,30.700807,76.764791,PersonalCare,HairSalon,5,24,6933.0,3.858394160583933

@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+"AarogyaYoga|Meditation,Yoga,andWellnessStudio",5.0,51.0,30.713844,76.753389,Fitness&Wellness,YogaStudio,10,14,9150.000000000002,4.833333333333333
+GurukulKathakAcademy,4.9,50.0,30.713392,76.753093,EducationalInstitute,DanceSchool,10,14,9150.000000000002,4.735849056603778
+BeautyParlourHomeServiceinChandigarh,4.8,24.0,30.713518,76.753003,Shop,BeautyParlour,10,14,9150.000000000002,4.488888888888887
+HumanBuddies,5.0,1.0,30.713582,76.753104,Office,Non-ProfitOrganization,10,14,9150.000000000002,2.75

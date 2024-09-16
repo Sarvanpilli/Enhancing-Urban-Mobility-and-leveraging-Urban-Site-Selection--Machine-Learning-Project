@@ -1,0 +1,7 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+TheBakerSmith-BestEgglessBakery|BirthdayCake|WeddingCake|AnniversaryCake|CustomizedCakes|BestCakeShop,4.9,181.0,30.696337,76.748348,Restaurant,Bakery,3,10,11935.400000000003,4.852717391304333
+DrAlishaReviveMindClinic,5.0,19.0,30.695721,76.748703,Hospital,MentalHealthClinic,3,10,11935.400000000003,4.590909090909091
+DrAlishaReviveMindClinic,5.0,19.0,30.695721,76.748703,Hospital,Children'sHospital,3,10,11935.400000000003,4.590909090909091
+VetrajPetHospital,5.0,1.0,30.696986,76.749154,Hospital,VeterinaryClinic,3,10,11935.400000000003,2.75
+krfitness,5.0,15.0,30.695605,76.748982,Fitness&Wellness,Gym,3,10,11935.400000000003,4.5
+AlphonsoPharmacia,5.0,1.0,30.696534,76.748355,Shop,Pharmacy,3,10,11935.400000000003,2.75

@@ -1,0 +1,63 @@
+    categories = {
+        #"Shop": [
+            "Stationery", "Diary", "Beauty Parlour", "Clothing", "Electronics",
+            "Grocery", "Jewellery", "Furniture", "Sporting Goods", "Toys",
+            "Pharmacy", "Convenience Store", "Hardware Store", "Shoe Store"
+        ],
+        "Shopping Mall": [
+            "Departmental Store", "Jewelry Store", "Food Court", "Cinema"
+        ],
+        #"Fuel Station": [
+            "Electrical Charging Station", "Petrol Pump", "LPG Station"
+        ],
+        #"Office": [
+            "Corporate Office", "Co-working Space", "Law Firm", "Accounting Firm",
+            "Advertising Agency", "Non-Profit Organization", "Insurance Agency",
+            "Travel Agency", "Media Company"
+        ],
+        #"Pilgrimage Place": [
+            "Temple", "Church", "Mosque", "Gurudwara", "Monastery", "Shrine"
+        ],
+        #"Restaurant": [
+            "Fast Food", "Fine Dining", "Cafe", "Bakery", "Bar", "Pub",
+            "Food Truck", "Buffet", "Pizzeria", "Ice Cream Parlor"
+        ],
+        "Entertainment": [
+            "Movie Theater", "Amusement Park", "Museum", "Sports Complex",
+            "Concert Hall", "Zoo", "Comedy Club"
+        ],
+        #"Hotel": [
+            "Budget", "Mid-Range", "Luxury", "Hostel", "Resort", "Bed & Breakfast"
+        ],
+        #"Hospital": [
+            "General Hospital", "Specialty Hospital", "Children's Hospital",
+            "Maternity Hospital", "Rehabilitation Center", "Mental Health Clinic",
+            "Dental Clinic", "Eye Clinic", "Veterinary Clinic"
+        ],
+        #"Educational Institute": [
+            "School", "College", "University", "Art School", "Music School",
+            "Tuition Center", "Dance School", "Driving School"
+        ],
+        #"Financial Institution": [
+            "Bank", "ATM", "Investment Firm"
+        ],
+        #"Government Building": [
+            "Post Office", "Police Station", "Fire Station", "Courthouse",
+            "City Hall", "Library"
+        ],
+        #"Outdoor Space": [
+            "Park", "Lake", "Forest", "Garden", "River", "Waterfall"
+        ],
+        #"Transportation": [
+            "Airport", "Train Station", "Bus Stop", "Taxi Stand"
+        ],
+        #"Personal Care": [
+            "Laundry", "Hair Salon"
+        ],
+        #"Fitness & Wellness": [
+            "Gym", "Yoga Studio"
+        ],
+        #"Event Venue": [
+            "Conference Center", "Convention Center", "Stadium", "Arena"
+        ],
+    }

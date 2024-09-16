@@ -1,0 +1,94 @@
+Category,Sub-Category,Count
+Educational Institute,School,410
+Educational Institute,Tuition Center,360
+Fitness & Wellness,Gym,440
+Educational Institute,University,460
+Educational Institute,College,380
+Educational Institute,Art School,430
+Educational Institute,Music School,450
+Fitness & Wellness,Yoga Studio,530
+Educational Institute,Driving School,510
+Educational Institute,Dance School,380
+Outdoor Space,Park,240
+Restaurant,Cafe,400
+Office,Advertising Agency,450
+Office,Travel Agency,320
+Office,Law Firm,420
+Transportation,Taxi Stand,410
+Restaurant,Bakery,530
+Restaurant,Ice Cream Parlor,420
+Transportation,Bus Stop,510
+Financial Institution,Bank,390
+Financial Institution,ATM,470
+Office,Media Company,200
+Shop,Pharmacy,490
+Office,Corporate Office,480
+Outdoor Space,Garden,330
+Restaurant,Fast Food,400
+Transportation,Airport,340
+Restaurant,Bar,400
+Restaurant,Buffet,440
+Shop,Hardware Store,400
+Office,Accounting Firm,480
+Shop,Shoe Store,430
+Office,Insurance Agency,380
+Office,Non-Profit Organization,440
+Transportation,Railway Station,460
+Hotel,Hotels,560
+Restaurant,Fine Dining,520
+Government Building,Police Station,480
+Government Building,Library,310
+Shop,Diary,290
+Shop,Stationery,540
+Entertainment,Sports Complex,450
+Shop,Beauty Parlour,450
+Shop,Clothing,350
+Shop,Electronics,360
+Outdoor Space,Forest,350
+Fuel Station,Petrol Pump,560
+Personal Care,Hair Salon,340
+Government Building,Post Office,550
+Event Venue,Stadium,510
+Personal Care,Laundry,560
+Entertainment,Movie Theater,440
+Shop,Convenience Store,540
+Restaurant,Pub,390
+Restaurant,Pizzeria,380
+Outdoor Space,Lake,330
+Hotel,Hostels for staying near me,500
+Government Building,City Hall,510
+Financial Institution,Investment Firm,350
+Fuel Station,LPG Station,440
+Entertainment,Amusement Park,440
+Office,Co-working Space,460
+Event Venue,Conference Center,510
+Event Venue,Arena,400
+Entertainment,Museum,420
+Entertainment,Zoo,530
+Outdoor Space,River,340
+Pilgrimage Place,Temple,430
+Event Venue,Convention Center,420
+Restaurant,Food Truck,330
+Fuel Station,Electrical Charging Station,610
+Pilgrimage Place,Church,420
+Pilgrimage Place,Gurudwara,470
+Hospital,Mental Health Clinic,430
+Hospital,Rehabilitation Center,370
+Hospital,General Hospital,330
+Hotel,Resorts ,420
+Hospital,Maternity Hospital,290
+Government Building,Fire Station,560
+Government Building,Courthouse,400
+Hospital,Dental Clinic,380
+Hospital,Children's Hospital,360
+Entertainment,Comedy Club,320
+Hospital,Eye Clinic,540
+Pilgrimage Place,Shrine,460
+Pilgrimage Place,Mosque,580
+Entertainment,Concert Hall,410
+Hospital,Veterinary Clinic,440
+Hospital,Specialty Hospital,390
+Shopping Mall,Jewelry Store,340
+Shopping Mall,Departmental Store,330
+Hotel,Budget Hotel,430
+Pilgrimage Place,Monastery,410

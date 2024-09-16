@@ -1,0 +1,4 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Gurudwara,4.9,33.0,30.723322,76.751145,PilgrimagePlace,Gurudwara,14,12,7422.399999999999,4.658333333333336
+UniversalMartialArts,4.6,50.0,30.723244,76.750702,EducationalInstitute,ArtSchool,14,12,7422.399999999999,4.452830188679242
+ShishuNiketanPublicSchool,3.5,188.0,30.723239,76.750717,EducationalInstitute,School,14,12,7422.399999999999,3.4764397905759163

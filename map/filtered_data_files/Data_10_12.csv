@@ -1,0 +1,17 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+LaPino'zPizzaSector-44,4.0,231.0,30.715128,76.751166,Restaurant,Pizzeria,10,12,9217.6,3.9743589743589753
+SHANGZSector44Chandigarh,4.3,67.0,30.715174,76.751296,Restaurant,Buffet,10,12,9217.6,4.201428571428576
+SHANGZSector44Chandigarh,4.3,67.0,30.715174,76.751296,Restaurant,FineDining,10,12,9217.6,4.201428571428576
+SubPostOfficeSector44Chandigarh,3.6,27.0,30.714145,76.751481,GovernmentBuilding,PostOffice,10,12,9217.6,3.4399999999999986
+UCOBANK,4.9,214.0,30.714766,76.750958,FinancialInstitution,Bank,10,12,9217.6,4.859907834101369
+RichfieldImmigrationServices,4.7,150.0,30.714948,76.750916,FinancialInstitution,InvestmentFirm,10,12,9217.6,4.647058823529418
+PunjabStateCooperativeBank,5.0,1.0,30.714277,76.751375,FinancialInstitution,Bank,10,12,9217.6,2.75
+UCOBankATM,4.9,52.0,30.714739,76.750978,FinancialInstitution,ATM,10,12,9217.6,4.741818181818185
+Dr.VandanaClinic,4.8,131.0,30.7145,76.751201,Hospital,MentalHealthClinic,10,12,9217.6,4.737313432835819
+NimbusEyeCenter,4.9,490.0,30.714306,76.751341,Hospital,EyeClinic,10,12,9217.6,4.882352941176515
+NimbusHospital,4.6,34.0,30.714388,76.751228,Hospital,EyeClinic,10,12,9217.6,4.389189189189186
+NakshatraSports,4.5,57.0,30.714824,76.751179,Entertainment,SportsComplex,10,12,9217.6,4.375
+TheBarbellLiFeGYM&SpACroSsFiTt,4.2,83.0,30.71423,76.751539,Fitness&Wellness,Gym,10,12,9217.6,4.123255813953482
+SmartTalk,4.8,176.0,30.714321,76.751409,EducationalInstitute,University,10,12,9217.6,4.753072625698311
+MadSquadStudio&Academy,5.0,1.0,30.714605,76.75088,EducationalInstitute,ArtSchool,10,12,9217.6,2.75
+MadSquadStudio&Academy,5.0,1.0,30.714605,76.75088,EducationalInstitute,MusicSchool,10,12,9217.6,2.75

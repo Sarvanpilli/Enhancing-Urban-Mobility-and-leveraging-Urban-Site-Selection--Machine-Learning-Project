@@ -1,0 +1,3 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+BankOfBaroda,2.0,3.0,30.697619,76.751263,FinancialInstitution,Bank,3,12,12747.6,2.0
+CivilDispensary,4.1,17.0,30.695935,76.751371,Shop,Pharmacy,3,12,12747.6,3.785

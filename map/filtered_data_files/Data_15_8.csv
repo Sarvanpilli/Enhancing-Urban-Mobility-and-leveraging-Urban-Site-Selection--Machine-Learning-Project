@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+SportsComplex,4.5,501.0,30.727199,76.747043,EventVenue,Stadium,15,8,7771.399999999999,4.485119047619048
+SportsComplex,4.5,501.0,30.727199,76.747043,EventVenue,Arena,15,8,7771.399999999999,4.485119047619048
+SportsComplex,4.5,501.0,30.727199,76.747043,Entertainment,SportsComplex,15,8,7771.399999999999,4.485119047619048
+GovernmentModelHighSchool,4.3,32.0,30.726677,76.746438,EducationalInstitute,School,15,8,7771.399999999999,4.102857142857142

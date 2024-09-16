@@ -1,0 +1,8 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+BurgerPoint,3.8,79.0,30.716223,76.744681,Restaurant,FastFood,11,6,9238.4,3.73414634146342
+TheChef43,3.5,825.0,30.717202,76.744036,Restaurant,FineDining,11,6,9238.4,3.494565217391304
+CloakRoom,5.0,1.0,30.71683,76.744197,Transportation,RailwayStation,11,6,9238.4,2.75
+ACDormitoryRestHouse,5.0,1.0,30.716863,76.744216,Transportation,RailwayStation,11,6,9238.4,2.75
+PolicePost,5.0,1.0,30.717157,76.744089,GovernmentBuilding,PoliceStation,11,6,9238.4,2.75
+StateBankOfIndiaATM,4.0,5.0,30.716658,76.744193,FinancialInstitution,ATM,11,6,9238.4,3.25
+ACDormitoryRestHouse,3.4,377.0,30.716863,76.744216,Hotel,Hostelsforstayingnearme,11,6,9238.4,3.388947368421058

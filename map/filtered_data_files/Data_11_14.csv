@@ -1,0 +1,12 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+CityBuzzReloaded|LateNightRestaurant|LateNightBar|BestRestaurant,3.9,104.0,30.717009,76.752769,Restaurant,Bar,11,14,8659.4,3.846728971962611
+7WestLoungeBar,4.0,20.0,30.717143,76.752989,Restaurant,Bar,11,14,8659.4,3.739130434782609
+CityBuzzReloaded|LateNightRestaurant|LateNightBar|BestRestaurant,3.9,104.0,30.717009,76.752769,Restaurant,Pub,11,14,8659.4,3.846728971962611
+HotelParkGrand,4.2,2010.0,30.717387,76.753131,EventVenue,ConferenceCenter,11,14,8659.4,4.196721311475307
+HotelWesternCourtChandigarh,4.1,2294.0,30.717142,76.752989,EventVenue,Stadium,11,14,8659.4,4.097257292120334
+HotelMetro43,4.1,1358.0,30.717368,76.753235,EventVenue,Stadium,11,14,8659.4,4.095371050698065
+HotelWesternCourtChandigarh,4.1,2294.0,30.717142,76.752989,GovernmentBuilding,CityHall,11,14,8659.4,4.097257292120334
+AnytimeFitness,4.7,608.0,30.717181,76.753064,Fitness&Wellness,Gym,11,14,8659.4,4.686743044189824
+AnytimeFitness,4.7,608.0,30.717181,76.753064,Fitness&Wellness,YogaStudio,11,14,8659.4,4.686743044189824
+HotelWesternCourtChandigarh,4.1,2294.0,30.717142,76.752989,Hotel,Hotels,11,14,8659.4,4.097257292120334
+HotelMetro43,4.1,1358.0,30.717368,76.753235,Hotel,Hotels,11,14,8659.4,4.095371050698065

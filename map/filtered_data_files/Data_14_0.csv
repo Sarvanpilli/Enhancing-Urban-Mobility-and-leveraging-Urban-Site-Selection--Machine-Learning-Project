@@ -1,0 +1,12 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+GurudwaraBabeke,4.6,164.0,30.724471,76.732355,PilgrimagePlace,Gurudwara,14,0,7242.400000000001,4.553293413173666
+ShreeRadhaKrishanMandir,4.5,115.0,30.724494,76.72821,PilgrimagePlace,Temple,14,0,7242.400000000001,4.436440677966102
+Phase2,5.0,1.0,30.723915,76.728323,Transportation,BusStop,14,0,7242.400000000001,2.75
+TinkaTaxiStand,4.6,31.0,30.724214,76.726424,Transportation,TaxiStand,14,0,7242.400000000001,4.3705882352941146
+BankofMaharashtraATM,5.0,1.0,30.725409,76.725675,FinancialInstitution,ATM,14,0,7242.400000000001,2.75
+BankofBarodaATM,5.0,1.0,30.724215,76.726424,FinancialInstitution,ATM,14,0,7242.400000000001,2.75
+ChandigarhPhysiotherapyCenter,5.0,12.0,30.723688,76.727634,Hospital,RehabilitationCenter,14,0,7242.400000000001,4.4
+GianJyotiInstituteofManagementandTechnology,4.1,795.0,30.724491,76.726199,EducationalInstitute,College,14,0,7242.400000000001,4.092105263157838
+PunjabTechnicalUniversityOffice,5.0,1.0,30.723651,76.727448,EducationalInstitute,University,14,0,7242.400000000001,2.75
+JDElectronics,4.4,129.0,30.725699,76.725543,Shop,Electronics,14,0,7242.400000000001,4.345454545454535
+NuvocovistasCorp.LtdMohali,4.5,6.0,30.724225,76.712145,Office,CorporateOffice,14,0,7242.400000000001,3.6666666666666665

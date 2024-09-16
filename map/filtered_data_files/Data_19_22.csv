@@ -1,0 +1,6 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+TableTennisHall,4.4,182.0,30.736234,76.761833,EventVenue,Stadium,19,22,7429.999999999999,4.361081081081068
+TableTennisHall,4.4,182.0,30.736234,76.761833,Entertainment,SportsComplex,19,22,7429.999999999999,4.361081081081068
+"Govt.SwimmingPool,Sector23",3.9,287.0,30.736525,76.762269,Entertainment,SportsComplex,19,22,7429.999999999999,3.880344827586201
+SandhuDrivingSchool,2.8,6.0,30.735917,76.762409,EducationalInstitute,DrivingSchool,19,22,7429.999999999999,2.533333333333333
+GovernmentPrimarySchool,5.0,1.0,30.737831,76.761605,EducationalInstitute,School,19,22,7429.999999999999,2.75

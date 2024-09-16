@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+RattanDrycleaners,5.0,3.0,30.701585,76.752431,PersonalCare,Laundry,5,13,11733.8,3.5
+Park1,3.8,23.0,30.701853,76.752207,OutdoorSpace,Park,5,13,11733.8,3.592307692307691
+SargamMusicAcademy,5.0,2.0,30.701387,76.752588,EducationalInstitute,ArtSchool,5,13,11733.8,3.2
+SargamMusicAcademy,5.0,2.0,30.701387,76.752588,EducationalInstitute,MusicSchool,5,13,11733.8,3.2

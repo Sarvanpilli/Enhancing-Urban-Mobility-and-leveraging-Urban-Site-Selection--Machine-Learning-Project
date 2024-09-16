@@ -1,0 +1,101 @@
+Category,Sub-Category,Count
+Shop,Stationery,82
+Shop,Diary,81
+Shop,Beauty Parlour,82
+Shop,Clothing,89
+Shop,Electronics,83
+Shop,Grocery,49
+Shop,Jewellery,47
+Shop,Furniture,52
+Shop,Sporting Goods,55
+Shop,Toys,90
+Shop,Pharmacy,69
+Shop,Convenience Store,70
+Shop,Hardware Store,51
+Shop,Shoe Store,50
+Shopping Mall,Departmental Store,51
+Shopping Mall,Jewelry Store,52
+Shopping Mall,Food Court,66
+Shopping Mall,Cinema,58
+Entertainment,Movie Theater,60
+Entertainment,Amusement Park,58
+Entertainment,Museum,52
+Entertainment,Sports Complex,58
+Entertainment,Concert Hall,43
+Entertainment,Zoo,50
+Entertainment,Comedy Club,52
+Office,Corporate Office,92
+Office,Co-working Space,57
+Office,Law Firm,65
+Office,Accounting Firm,73
+Office,Advertising Agency,62
+Office,Non-Profit Organization,39
+Office,Insurance Agency,60
+Office,Travel Agency,90
+Office,Media Company,70
+Pilgrimage Place,Temple,71
+Pilgrimage Place,Church,63
+Pilgrimage Place,Mosque,68
+Pilgrimage Place,Gurudwara,76
+Pilgrimage Place,Monastery,68
+Pilgrimage Place,Shrine,89
+Restaurant,Fast Food,65
+Restaurant,Fine Dining,65
+Restaurant,Cafe,46
+Restaurant,Bakery,53
+Restaurant,Bar,57
+Restaurant,Pub,72
+Restaurant,Food Truck,27
+Restaurant,Buffet,83
+Restaurant,Pizzeria,77
+Restaurant,Ice Cream Parlor,71
+Outdoor Space,Park,67
+Outdoor Space,Lake,56
+Outdoor Space,Forest,61
+Outdoor Space,Garden,65
+Outdoor Space,River,44
+Outdoor Space,Waterfall,57
+Transportation,Airport,80
+Transportation,Train Station,88
+Transportation,Bus Stop,44
+Transportation,Taxi Stand,60
+Personal Care,Laundry,72
+Personal Care,Hair Salon,99
+Fitness & Wellness,Gym,75
+Fitness & Wellness,Yoga Studio,56
+Event Venue,Conference Center,56
+Event Venue,Convention Center,48
+Event Venue,Stadium,59
+Event Venue,Arena,46
+Hotel,Budget Hotel,74
+Hotel,Mid-Range Hotel,66
+Hotel,Luxury Hotel,71
+Hotel,Hostel,52
+Hotel,Resort,73
+Hotel,Bed & Breakfast,78
+Hospital,General Hospital,73
+Hospital,Specialty Hospital,38
+Hospital,Children's Hospital,46
+Hospital,Maternity Hospital,56
+Hospital,Rehabilitation Center,70
+Hospital,Mental Health Clinic,71
+Hospital,Dental Clinic,59
+Hospital,Eye Clinic,41
+Hospital,Veterinary Clinic,53
+Educational Institute,School,57
+Educational Institute,College,56
+Educational Institute,University,84
+Educational Institute,Art School,50
+Educational Institute,Music School,77
+Educational Institute,Tuition Center,58
+Educational Institute,Dance School,60
+Educational Institute,Driving School,47
+Financial Institution,Bank,70
+Financial Institution,ATM,55
+Financial Institution,Investment Firm,84
+Government Building,Post Office,53
+Government Building,Police Station,68
+Government Building,Fire Station,55
+Government Building,Courthouse,80
+Government Building,City Hall,83
+Government Building,Library,100

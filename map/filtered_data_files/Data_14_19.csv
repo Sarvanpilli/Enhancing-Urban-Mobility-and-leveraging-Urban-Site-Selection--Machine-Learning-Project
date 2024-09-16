@@ -1,0 +1,11 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+BharatPetroleumKeroseneFilingStation,4.1,26.0,30.725167,76.758807,FuelStation,PetrolPump,14,19,8067.599999999999,3.882758620689653
+ARVINDBOMBAYFASTFOOD,4.3,17.0,30.725556,76.758858,Restaurant,FastFood,14,19,8067.599999999999,3.954999999999999
+Viktaxi|ChandigarhRailwayStationTaxi|ChandigarhAirportTaxi,5.0,32.0,30.725534,76.759063,Transportation,RailwayStation,14,19,8067.599999999999,4.742857142857143
+Viktaxi|ChandigarhRailwayStationTaxi|ChandigarhAirportTaxi,5.0,32.0,30.725534,76.759063,Transportation,TaxiStand,14,19,8067.599999999999,4.742857142857143
+Viktaxi|ChandigarhRailwayStationTaxi|ChandigarhAirportTaxi,5.0,32.0,30.725534,76.759063,Transportation,Airport,14,19,8067.599999999999,4.742857142857143
+Viktaxi|ChandigarhRailwayStationTaxi|ChandigarhAirportTaxi,5.0,1.0,30.725534,76.759063,Transportation,RailwayStation,14,19,8067.599999999999,2.75
+IndiaPost,3.5,11.0,30.724891,76.759071,GovernmentBuilding,PostOffice,14,19,8067.599999999999,3.1785714285714284
+RaoFinancialServices,5.0,5.0,30.724943,76.759174,GovernmentBuilding,PostOffice,14,19,8067.599999999999,3.875
+JantaGlassHouse,4.6,5.0,30.725165,76.759262,Entertainment,MovieTheater,14,19,8067.599999999999,3.625
+PlazaElectronics,4.5,23.0,30.725592,76.758975,Shop,Electronics,14,19,8067.599999999999,4.211538461538462

@@ -1,0 +1,13 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+KataniBuffet,3.5,98.0,30.711587,76.719686,Restaurant,Buffet,9,0,6849.6,3.4554455445544554
+BurgerPoint3B2,3.8,769.0,30.712196,76.71926,Restaurant,FastFood,9,0,6849.6,3.793005181347183
+BusStop-Sector52B,5.0,1.0,30.71099,76.737313,Transportation,BusStop,9,0,6849.6,2.75
+MantraTour&Travels:TaxiServiceinChandigarh,4.9,357.0,30.710862,76.735621,Transportation,TaxiStand,9,0,6849.6,4.875833333333362
+ChandigarhToDelhiCabs,5.0,60.0,30.712422,76.736617,Transportation,TaxiStand,9,0,6849.6,4.857142857142857
+ChandigarhToDelhiCabs,5.0,60.0,30.712422,76.736617,Transportation,Airport,9,0,6849.6,4.857142857142857
+RoseGardenLibrary,4.1,17.0,30.711416,76.721186,GovernmentBuilding,Library,9,0,6849.6,3.785
+YogaInNerves,5.0,46.0,30.710862,76.735621,Fitness&Wellness,YogaStudio,9,0,6849.6,4.816326530612245
+PreetiTuitionClasses(Mohali)||BesttuitioninMohali,5.0,35.0,30.713161,76.720575,EducationalInstitute,TuitionCenter,9,0,6849.6,4.7631578947368425
+TheMusicaddicts,5.0,21.0,30.711739,76.727551,EducationalInstitute,MusicSchool,9,0,6849.6,4.625
+MaharajaHardwareStore,4.3,23.0,30.711983,76.73196,Shop,HardwareStore,9,0,6849.6,4.034615384615384
+NituTour&Travels,4.9,102.0,30.710926,76.735095,Office,TravelAgency,9,0,6849.6,4.817142857142849

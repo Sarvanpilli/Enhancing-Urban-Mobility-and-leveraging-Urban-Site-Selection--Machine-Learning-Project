@@ -1,0 +1,10 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+IndianOil,4.1,824.0,30.716741,76.752579,FuelStation,PetrolPump,11,13,8632.600000000002,4.092382103990269
+RajpuraAmbala,4.0,56.0,30.716872,76.752498,FuelStation,PetrolPump,11,13,8632.600000000002,3.8983050847457625
+TheFirstHotel(BestHotelsinChandigarh),4.0,108.0,30.716836,76.752564,EventVenue,Stadium,11,13,8632.600000000002,3.945945945945946
+Sector43/44,5.0,1.0,30.716456,76.752457,Transportation,RailwayStation,11,13,8632.600000000002,2.75
+Sector43/44,5.0,1.0,30.716456,76.752457,Transportation,Airport,11,13,8632.600000000002,2.75
+Sector43/44,5.0,1.0,30.716456,76.752457,Transportation,BusStop,11,13,8632.600000000002,2.75
+Sector44A,4.7,3.0,30.716063,76.752181,Transportation,RailwayStation,11,13,8632.600000000002,3.35
+BishtInsurance&Services,5.0,9.0,30.716315,76.751734,Office,InsuranceAgency,11,13,8632.600000000002,4.25
+TheFirstHotel(BestHotelsinChandigarh),4.0,108.0,30.716836,76.752564,Hotel,Hotels,11,13,8632.600000000002,3.945945945945946

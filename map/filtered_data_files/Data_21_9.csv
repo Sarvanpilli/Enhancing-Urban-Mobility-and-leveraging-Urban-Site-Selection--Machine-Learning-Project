@@ -1,0 +1,4 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+FireStationSector38C,4.4,12.0,30.741681,76.747399,GovernmentBuilding,FireStation,21,9,9005.000000000004,3.92
+FireStationSector38C,4.4,12.0,30.741681,76.747399,GovernmentBuilding,PoliceStation,21,9,9005.000000000004,3.92
+CENTRALBANKOFINDIA-ATM,3.0,7.0,30.740895,76.747842,FinancialInstitution,ATM,21,9,9005.000000000004,2.7

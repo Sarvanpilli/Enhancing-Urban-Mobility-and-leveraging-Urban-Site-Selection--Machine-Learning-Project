@@ -1,0 +1,7 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+EminenceEducation,4.6,14.0,30.690806,76.757968,EducationalInstitute,University,1,18,12078.6,4.141176470588236
+EminenceEducation,4.6,14.0,30.690806,76.757968,EducationalInstitute,College,1,18,12078.6,4.141176470588236
+JeewanAdhaar-SBI,4.4,70.0,30.691269,76.757882,Office,Non-ProfitOrganization,1,18,12078.6,4.301369863013698
+"RohinAroraandAssociates,CharteredAccountantFirm",5.0,1.0,30.691943,76.757503,Office,AccountingFirm,1,18,12078.6,2.75
+SardanaLawOffice,5.0,5.0,30.692149,76.757368,Office,LawFirm,1,18,12078.6,3.875
+GagneshwarWaliaAdvocate,5.0,1.0,30.690761,76.758008,Office,LawFirm,1,18,12078.6,2.75

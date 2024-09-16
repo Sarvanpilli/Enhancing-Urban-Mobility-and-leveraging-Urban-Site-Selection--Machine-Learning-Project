@@ -1,0 +1,7 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+BankofBarodaATM,3.3,3.0,30.70809,76.761116,FinancialInstitution,ATM,7,21,12133.000000000004,2.65
+Burailfort3,5.0,1.0,30.70782,76.76101,Entertainment,Museum,7,21,12133.000000000004,2.75
+Burail,5.0,1.0,30.707967,76.761064,Entertainment,MovieTheater,7,21,12133.000000000004,2.75
+CMCAcademy-Chandigarh,5.0,1.0,30.708049,76.761199,EducationalInstitute,College,7,21,12133.000000000004,2.75
+Foundationthegreattuition,5.0,3.0,30.707949,76.761057,EducationalInstitute,TuitionCenter,7,21,12133.000000000004,3.5
+AmritStationers,3.0,1.0,30.708002,76.76112,Shop,Stationery,7,21,12133.000000000004,2.25

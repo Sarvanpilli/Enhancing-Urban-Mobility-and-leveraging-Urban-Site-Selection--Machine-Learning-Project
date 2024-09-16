@@ -1,0 +1,9 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Temptation,4.3,7.0,30.728649,76.758292,Restaurant,Buffet,16,19,8010.200000000002,3.61
+Temptation,4.3,7.0,30.728649,76.758292,Restaurant,FineDining,16,19,8010.200000000002,3.61
+Punjab&SindBank,5.0,1.0,30.728401,76.758454,FinancialInstitution,Bank,16,19,8010.200000000002,2.75
+DrParmodClinic,4.7,197.0,30.729325,76.758463,Hospital,MentalHealthClinic,16,19,8010.200000000002,4.659500000000016
+WorldwideVacations,4.4,172.0,30.728697,76.758337,Office,TravelAgency,16,19,8010.200000000002,4.358857142857129
+DeepakMalhotra,5.0,21.0,30.728649,76.758292,Office,LawFirm,16,19,8010.200000000002,4.625
+CAVipanMittal,5.0,1.0,30.728405,76.758565,Office,AccountingFirm,16,19,8010.200000000002,2.75
+satellitesecurityservices,5.0,3.0,30.728649,76.758292,Office,CorporateOffice,16,19,8010.200000000002,3.5

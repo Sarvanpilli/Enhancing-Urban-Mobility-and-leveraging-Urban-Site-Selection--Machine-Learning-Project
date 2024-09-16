@@ -1,0 +1,11 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+HimalayanMissionChurch,4.0,4.0,30.68075,76.755146,PilgrimagePlace,Church,0,16,9556.000000000002,3.142857142857143
+Sector48,5.0,1.0,30.682639,76.755846,Transportation,RailwayStation,0,16,9556.000000000002,2.75
+Sector48,5.0,1.0,30.682639,76.755846,Transportation,BusStop,0,16,9556.000000000002,2.75
+Postoffice,3.8,6.0,30.685928,76.755259,GovernmentBuilding,PostOffice,0,16,9556.000000000002,3.2
+PoliceStationSector48,5.0,1.0,30.690057,76.755822,GovernmentBuilding,PoliceStation,0,16,9556.000000000002,2.75
+IntegratedLibraryCenter,4.7,11.0,30.685918,76.755257,GovernmentBuilding,Library,0,16,9556.000000000002,4.121428571428572
+OpenAirGym,4.5,4.0,30.687611,76.75533,Fitness&Wellness,Gym,0,16,9556.000000000002,3.4285714285714284
+TaxationAssociates(India),5.0,6.0,30.682729,76.755357,Office,AccountingFirm,0,16,9556.000000000002,4.0
+PurusarthaWorks|MarketingAgencyinChandigarh,4.9,41.0,30.685925,76.755613,Office,AdvertisingAgency,0,16,9556.000000000002,4.702272727272731
+PurusarthaWorks|MarketingAgencyinChandigarh,4.9,41.0,30.685925,76.755613,Office,MediaCompany,0,16,9556.000000000002,4.702272727272731

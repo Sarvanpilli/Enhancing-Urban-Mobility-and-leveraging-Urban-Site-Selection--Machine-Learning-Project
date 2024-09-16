@@ -1,0 +1,6 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+OvenRoast&Grill,4.5,673.0,30.720549,76.758557,Restaurant,FineDining,12,19,8663.0,4.488905325443787
+"RefectionsCafe,Chandigarh",4.5,337.0,30.720478,76.758504,Restaurant,Cafe,12,19,8663.0,4.477941176470588
+DrSumeetInder'sPsychiatryClinic,4.9,443.0,30.718311,76.758542,Hospital,MentalHealthClinic,12,19,8663.0,4.880493273542641
+PublicPark,4.1,117.0,30.71862,76.759171,OutdoorSpace,Park,12,19,8663.0,4.047500000000008
+24SEVEN,3.6,87.0,30.720602,76.758512,Shop,ConvenienceStore,12,19,8663.0,3.5466666666666677

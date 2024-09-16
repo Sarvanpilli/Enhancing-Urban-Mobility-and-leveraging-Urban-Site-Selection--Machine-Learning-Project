@@ -1,0 +1,14 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Hungerpangs,5.0,1.0,30.693943,76.756802,Restaurant,FastFood,2,17,13694.0,2.75
+SinghQualityFoodsDepartmentalStore,3.7,3.0,30.694188,76.756943,Restaurant,IceCreamParlor,2,17,13694.0,2.85
+Coffea,4.6,26.0,30.694234,76.756693,Restaurant,Buffet,2,17,13694.0,4.331034482758619
+FlavorishbakersbyMs.Chanmeetkaur,5.0,1.0,30.693082,76.756669,Restaurant,IceCreamParlor,2,17,13694.0,2.75
+Coffea,4.6,26.0,30.694234,76.756693,Restaurant,Cafe,2,17,13694.0,4.331034482758619
+StateBankofIndia,3.5,24.0,30.694068,76.756534,FinancialInstitution,Bank,2,17,13694.0,3.333333333333333
+ChandigarhStateCoopBankLtd,5.0,1.0,30.694187,76.756936,FinancialInstitution,Bank,2,17,13694.0,2.75
+Aadilunisexsalon,4.9,88.0,30.69401,76.756828,PersonalCare,HairSalon,2,17,13694.0,4.804395604395598
+SwaranMedicalStore,4.5,2.0,30.693998,76.756603,Shop,Pharmacy,2,17,13694.0,3.0
+HemaStoresNStationers,4.0,5.0,30.69407,76.756783,Shop,Stationery,2,17,13694.0,3.25
+HemaStoresNStationers,4.0,5.0,30.69407,76.756783,Shop,Diary,2,17,13694.0,3.25
+R.S.Electricals,2.5,2.0,30.69398,76.756573,Shop,Electronics,2,17,13694.0,2.2
+ShyamDepartmentalStore,4.6,13.0,30.694034,76.756695,ShoppingMall,DepartmentalStore,2,17,13694.0,4.112500000000001

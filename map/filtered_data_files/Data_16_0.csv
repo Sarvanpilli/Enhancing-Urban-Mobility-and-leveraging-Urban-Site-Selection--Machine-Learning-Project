@@ -1,0 +1,11 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+BPCLPetrolpump,3.9,1677.0,30.728885,76.733307,FuelStation,PetrolPump,16,0,8401.400000000003,3.896607142857047
+SpiceRouteRestaurantMohali,3.9,17.0,30.7291,76.721496,Restaurant,FineDining,16,0,8401.400000000003,3.6149999999999993
+C.N.IChurch,4.7,30.0,30.728305,76.724619,PilgrimagePlace,Church,16,0,8401.400000000003,4.454545454545455
+CRPFCheckPost,5.0,1.0,30.729881,76.729747,GovernmentBuilding,PoliceStation,16,0,8401.400000000003,2.75
+IRONHUBGYM,4.6,280.0,30.730239,76.722807,Fitness&Wellness,Gym,16,0,8401.400000000003,4.572438162544164
+Sharmadryclean&washingcenter,4.9,10.0,30.728319,76.713616,PersonalCare,Laundry,16,0,8401.400000000003,4.23076923076923
+Lovelyhaircutsalon,5.0,145.0,30.730398,76.72667,PersonalCare,HairSalon,16,0,8401.400000000003,4.9391891891891895
+VidyaNiketanSchoolPhase1Mohali,4.3,20.0,30.72946,76.71455,EducationalInstitute,School,16,0,8401.400000000003,3.999999999999999
+SangeetSadhanaMusicAcadmyMohali(Regd),4.8,127.0,30.730588,76.720191,EducationalInstitute,MusicSchool,16,0,8401.400000000003,4.735384615384615
+EmpoweringHandsFoundation,4.9,27.0,30.729445,76.714663,Office,Non-ProfitOrganization,16,0,8401.400000000003,4.610000000000002

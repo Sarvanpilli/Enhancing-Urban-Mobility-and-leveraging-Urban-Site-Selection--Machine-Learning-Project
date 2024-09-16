@@ -1,0 +1,6 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+ReadingRoom,4.0,20.0,30.737232,76.764365,GovernmentBuilding,Library,19,24,4837.799999999999,3.739130434782609
+PoliceBeatBox,5.0,1.0,30.737399,76.764103,GovernmentBuilding,PoliceStation,19,24,4837.799999999999,2.75
+SardarBalDrivingSchool,5.0,5.0,30.735855,76.764671,EducationalInstitute,DrivingSchool,19,24,4837.799999999999,3.875
+ACT1D,5.0,1.0,30.735855,76.764671,Office,Non-ProfitOrganization,19,24,4837.799999999999,2.75
+Sector23c,4.8,5.0,30.737742,76.764729,Office,CorporateOffice,19,24,4837.799999999999,3.75

@@ -1,0 +1,13 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+PizzaPlace,4.7,512.0,30.700105,76.71456,Restaurant,Pizzeria,4,0,5672.0,4.684271844660194
+SatyaNarayanTempleMattour,4.7,380.0,30.700103,76.71538,PilgrimagePlace,Temple,4,0,5672.0,4.678851174934755
+GurudwaraSriAmbSahib,4.8,7304.0,30.699109,76.732414,PilgrimagePlace,Shrine,4,0,5672.0,4.798850417407675
+GurudwaraSriAmbSahib,4.8,7304.0,30.699109,76.732414,PilgrimagePlace,Gurudwara,4,0,5672.0,4.798850417407675
+Sector62/63(U.T.Border),5.0,1.0,30.698463,76.738208,Transportation,BusStop,4,0,5672.0,2.75
+"MotherhoodHospital,Mohali",4.8,1204.0,30.69932,76.727279,Hospital,MaternityHospital,4,0,5672.0,4.793040596520403
+Dr.TejinderKaur,5.0,83.0,30.699291,76.727395,Hospital,MaternityHospital,4,0,5672.0,4.895348837209302
+LeisureValleyParkMohali,4.6,971.0,30.699905,76.736661,Entertainment,AmusementPark,4,0,5672.0,4.59199178644761
+UltimatePhysiqueFitnessGym,4.8,143.0,30.69843,76.713463,Fitness&Wellness,Gym,4,0,5672.0,4.742465753424652
+IstriDryclean,4.2,111.0,30.69994,76.710281,PersonalCare,Laundry,4,0,5672.0,4.142105263157887
+ClassicStationers,4.4,47.0,30.699866,76.713628,Shop,Stationery,4,0,5672.0,4.256000000000003
+Amway,5.0,1.0,30.699909,76.730163,Office,Non-ProfitOrganization,4,0,5672.0,2.75

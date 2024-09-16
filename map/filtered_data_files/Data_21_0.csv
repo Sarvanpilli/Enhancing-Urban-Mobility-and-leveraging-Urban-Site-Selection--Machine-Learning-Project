@@ -1,0 +1,6 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+ShriRadhaKrishnaMandir,4.6,139.0,30.74087,76.736097,PilgrimagePlace,Temple,21,0,5946.600000000001,4.545070422535223
+"AroraRajiv&Associates,CharteredAccountants",5.0,81.0,30.741872,76.737572,FinancialInstitution,InvestmentFirm,21,0,5946.600000000001,4.892857142857143
+GovtModelsr.secschool,4.4,38.0,30.741389,76.727654,EducationalInstitute,School,21,0,5946.600000000001,4.224390243902442
+"AroraRajiv&Associates,CharteredAccountants",5.0,81.0,30.741872,76.737572,Office,AccountingFirm,21,0,5946.600000000001,4.892857142857143
+NoorTour&Travels,4.8,93.0,30.741472,76.737079,Office,TravelAgency,21,0,5946.600000000001,4.712500000000008

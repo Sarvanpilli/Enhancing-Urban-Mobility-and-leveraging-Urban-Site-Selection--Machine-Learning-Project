@@ -1,0 +1,10 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+MakeNBake,5.0,9.0,30.683779,76.754851,Restaurant,IceCreamParlor,0,15,9217.6,4.25
+MakeNBake,5.0,9.0,30.683779,76.754851,Restaurant,Bakery,0,15,9217.6,4.25
+Phase11,5.0,1.0,30.680943,76.753979,Transportation,RailwayStation,0,15,9217.6,2.75
+GovernmentMedicalCollege&Hospital,3.8,28.0,30.688452,76.75485,Hospital,GeneralHospital,0,15,9217.6,3.6258064516129016
+TharaBhaiJoginder,5.0,1.0,30.683483,76.754765,PersonalCare,HairSalon,0,15,9217.6,2.75
+JantaDrivingSchoolChandigarh,4.5,286.0,30.684063,76.754184,EducationalInstitute,DrivingSchool,0,15,9217.6,4.474048442906574
+GovernmentMedicalCollege&Hospital,3.8,28.0,30.688452,76.75485,EducationalInstitute,College,0,15,9217.6,3.6258064516129016
+GovernmentModelHighSchool,4.2,33.0,30.68805,76.753816,EducationalInstitute,School,0,15,9217.6,4.016666666666668
+Vandana'sAfterschoolprograminChandigarh,5.0,2.0,30.683343,76.753988,EducationalInstitute,ArtSchool,0,15,9217.6,3.2

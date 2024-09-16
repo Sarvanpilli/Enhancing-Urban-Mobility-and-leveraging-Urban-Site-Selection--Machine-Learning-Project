@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+IMRANFASTFOOD,2.0,3.0,30.708241,76.762589,Restaurant,FastFood,8,22,10784.400000000003,2.0
+K.DHARDWARESTORE,4.8,117.0,30.709681,76.762058,Shop,HardwareStore,8,22,10784.400000000003,4.730000000000003
+VishalElectronics,4.4,26.0,30.709652,76.762305,Shop,Electronics,8,22,10784.400000000003,4.151724137931036
+WebicotechDigitalMarketing,5.0,17.0,30.709673,76.762351,Office,MediaCompany,8,22,10784.400000000003,4.55

@@ -1,0 +1,11 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Cup&Kitaab,4.3,1439.0,30.686425,76.740848,Restaurant,Cafe,0,3,5722.200000000002,4.295214979195673
+JamaMasjidPhase11Mohali,5.0,5.0,30.678054,76.74113,PilgrimagePlace,Mosque,0,3,5722.200000000002,3.875
+Phase11PoliceStation,5.0,1.0,30.677826,76.740741,GovernmentBuilding,PoliceStation,0,3,5722.200000000002,2.75
+SilviParkLibrary,4.2,40.0,30.686145,76.74089,GovernmentBuilding,Library,0,3,5722.200000000002,4.046511627906975
+PublicLibrary,4.4,5.0,30.686277,76.740632,GovernmentBuilding,Library,0,3,5722.200000000002,3.5
+Dr.TejnoorSingh,5.0,7.0,30.686151,76.740897,Hospital,GeneralHospital,0,3,5722.200000000002,4.1
+Dr.KarandeepKaur,5.0,1.0,30.688478,76.740924,Hospital,Children'sHospital,0,3,5722.200000000002,2.75
+"MusikonMusicHouse&MusicAcademy,11Phase,Sector65,Mohali.LearnSinging&Instruments,Dance,KathakDance.",4.9,149.0,30.677195,76.741437,EducationalInstitute,MusicSchool,0,3,5722.200000000002,4.842763157894725
+J.v.Departmentalstore,5.0,6.0,30.684815,76.741068,ShoppingMall,DepartmentalStore,0,3,5722.200000000002,4.0
+OfficeOnDemand-OfficespaceforrentinMohali|CoworkingSpaceMohali,3.0,2.0,30.675798,76.740597,Office,Co-workingSpace,0,3,5722.200000000002,2.4

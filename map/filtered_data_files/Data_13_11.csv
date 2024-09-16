@@ -1,0 +1,9 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+7WestworldCuisine,2.3,3.0,30.721641,76.75024,Restaurant,FineDining,13,11,7611.6,2.15
+7WestworldCuisine,2.3,3.0,30.721641,76.75024,Restaurant,Buffet,13,11,7611.6,2.15
+SportsComplex,4.4,261.0,30.721642,76.75024,EventVenue,Stadium,13,11,7611.6,4.372727272727269
+SportsComplex,4.4,261.0,30.721642,76.75024,EventVenue,Arena,13,11,7611.6,4.372727272727269
+SportsComplex,4.4,261.0,30.721642,76.75024,Entertainment,SportsComplex,13,11,7611.6,4.372727272727269
+Chandigarh,4.0,1.0,30.721634,76.750239,EducationalInstitute,College,13,11,7611.6,2.5
+Tuitionclassesfor6thto12th,4.9,78.0,30.722913,76.749758,EducationalInstitute,TuitionCenter,13,11,7611.6,4.792592592592588
+SherSinghRathoreandAssociates,4.6,34.0,30.722338,76.750178,Office,LawFirm,13,11,7611.6,4.389189189189186

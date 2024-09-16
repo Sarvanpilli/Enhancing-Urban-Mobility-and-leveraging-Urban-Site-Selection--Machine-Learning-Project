@@ -1,0 +1,4 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+khalsaCollege,3.4,20.0,30.710688,76.755345,EducationalInstitute,College,9,16,10368.000000000002,3.2173913043478253
+khalsaCollege,3.4,20.0,30.710688,76.755345,EducationalInstitute,University,9,16,10368.000000000002,3.2173913043478253
+SGInstitute,5.0,1.0,30.713007,76.755301,EducationalInstitute,College,9,16,10368.000000000002,2.75

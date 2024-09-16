@@ -1,0 +1,10 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+MuscleArena,4.5,143.0,30.734018,76.752689,EventVenue,Arena,18,13,8049.400000000001,4.448630136986301
+PostOfficesector36,2.2,81.0,30.734409,76.752429,GovernmentBuilding,PostOffice,18,13,8049.400000000001,2.192857142857141
+ChandigarhUniversity,3.8,223.0,30.73412,76.752456,GovernmentBuilding,Library,18,13,8049.400000000001,3.776106194690252
+Punjab&SindBank,3.3,3.0,30.734018,76.752689,FinancialInstitution,Bank,18,13,8049.400000000001,2.65
+ShriParshuramBhawan,4.3,747.0,30.735659,76.751976,Entertainment,ConcertHall,18,13,8049.400000000001,4.290800000000045
+MuscleArena,4.5,143.0,30.734018,76.752689,Fitness&Wellness,Gym,18,13,8049.400000000001,4.448630136986301
+ChandigarhUniversity,3.8,223.0,30.73412,76.752456,EducationalInstitute,University,18,13,8049.400000000001,3.776106194690252
+ClockOwl,5.0,10.0,30.734566,76.752291,Shop,ConvenienceStore,18,13,8049.400000000001,4.307692307692308
+ClockOwl,4.0,1.0,30.734591,76.752298,Shop,ConvenienceStore,18,13,8049.400000000001,2.5

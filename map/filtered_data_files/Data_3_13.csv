@@ -1,0 +1,6 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Sector-49A,5.0,1.0,30.697828,76.751719,Transportation,BusStop,3,13,13138.800000000005,2.75
+Sector-49A,5.0,1.0,30.697828,76.751719,GovernmentBuilding,Library,3,13,13138.800000000005,2.75
+Assistantdirector,5.0,1.0,30.696712,76.752482,Entertainment,MovieTheater,3,13,13138.800000000005,2.75
+RanaCameraRentalServices,3.9,17.0,30.695655,76.75194,Shop,Electronics,3,13,13138.800000000005,3.6149999999999993
+DhimanTour&Travel-BestTravelAgent/AgencyChandigarh,4.9,32.0,30.695655,76.75194,Office,TravelAgency,3,13,13138.800000000005,4.651428571428574

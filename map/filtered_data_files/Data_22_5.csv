@@ -1,0 +1,13 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Citypizzeria,4.8,77.0,30.745211,76.743609,Restaurant,Pizzeria,22,5,8402.4,4.695000000000007
+Pizza10,5.0,315.0,30.745784,76.743552,Restaurant,Pizzeria,22,5,8402.4,4.971698113207547
+13#taxiservice,4.0,4.0,30.744929,76.743092,Transportation,Airport,22,5,8402.4,3.142857142857143
+UnionBankofIndiaSector38CChandigarhBranch,4.3,19.0,30.744263,76.743764,FinancialInstitution,Bank,22,5,8402.4,3.986363636363635
+BankofBaroda,4.3,12.0,30.744629,76.743406,FinancialInstitution,Bank,22,5,8402.4,3.839999999999999
+IndusIndBank,3.5,12.0,30.745559,76.743609,FinancialInstitution,Bank,22,5,8402.4,3.2
+LegitImmigration&Travels,4.8,30.0,30.7441,76.743789,FinancialInstitution,InvestmentFirm,22,5,8402.4,4.545454545454546
+ProUltimateGymsSector38,4.8,514.0,30.744436,76.743658,Fitness&Wellness,Gym,22,5,8402.4,4.783752417794975
+BellerizzaSalon,4.8,528.0,30.744608,76.74347,PersonalCare,HairSalon,22,5,8402.4,4.784180790960461
+JRCoachingCentreforOpenSchoolandBestTuitionClassesinChandigarhTricity,4.3,24.0,30.745656,76.743622,EducationalInstitute,TuitionCenter,22,5,8402.4,4.044444444444443
+BellerizzaSalon,4.8,528.0,30.744608,76.74347,Shop,BeautyParlour,22,5,8402.4,4.784180790960461
+MohitGuptaFoundation,5.0,515.0,30.744601,76.743507,Office,Non-ProfitOrganization,22,5,8402.4,4.982625482625482

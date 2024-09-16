@@ -1,0 +1,4 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+BusStop-Sector51B,5.0,1.0,30.707748,76.741736,Transportation,BusStop,7,4,11753.4,2.75
+ChandigarhPoliceBeatBox,5.0,1.0,30.707454,76.741868,GovernmentBuilding,PoliceStation,7,4,11753.4,2.75
+"CAMukeshGoyal-MukeshVishesh&Associates|CAFirmInChandigarh,Panchkula,Mohali|ITR&GSTFiling,TaxationConsultant",5.0,57.0,30.707825,76.741932,Office,AccountingFirm,7,4,11753.4,4.85

@@ -1,0 +1,4 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+LawTodayLive,5.0,1.0,30.699245,76.752202,GovernmentBuilding,Library,4,13,12489.4,2.75
+WALLSTREETINVESTMENTS,5.0,4.0,30.699641,76.752036,Office,CorporateOffice,4,13,12489.4,3.7142857142857135
+PrimeLawyers,5.0,4.0,30.69859,76.75188,Office,LawFirm,4,13,12489.4,3.7142857142857135

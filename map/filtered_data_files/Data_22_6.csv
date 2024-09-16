@@ -1,0 +1,11 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+BaskinRobbins,4.4,52.0,30.743537,76.744916,Restaurant,IceCreamParlor,22,6,8292.400000000001,4.269090909090912
+Punjabizaika,4.4,5.0,30.744873,76.74406,Restaurant,Buffet,22,6,8292.400000000001,3.5
+NorthernRiders,5.0,1.0,30.744381,76.744292,Transportation,RailwayStation,22,6,8292.400000000001,2.75
+BABATRAVELSCHANDIGARH,4.8,32.0,30.745543,76.743937,Transportation,TaxiStand,22,6,8292.400000000001,4.5600000000000005
+StateBankOfIndiaATM,2.0,2.0,30.745054,76.743908,FinancialInstitution,ATM,22,6,8292.400000000001,2.0
+CANARABANK(formerlySyndicateBank),3.7,3.0,30.744858,76.744293,FinancialInstitution,Bank,22,6,8292.400000000001,2.85
+SadanandDryCleaners|DryCleanerNearMe,4.5,32.0,30.744533,76.74435,PersonalCare,Laundry,22,6,8292.400000000001,4.285714285714286
+SurSangamInstitute,5.0,19.0,30.744446,76.744094,EducationalInstitute,MusicSchool,22,6,8292.400000000001,4.590909090909091
+VaporeBath-SteamGenerator|JacuzziBathTub|ToughenedGlass,4.8,71.0,30.744856,76.744569,Shop,HardwareStore,22,6,8292.400000000001,4.686486486486492
+TechGenComputers-Sale|Purchase|Repairing,4.3,12.0,30.744554,76.744235,Shop,HardwareStore,22,6,8292.400000000001,3.839999999999999

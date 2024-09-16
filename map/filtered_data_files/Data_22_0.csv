@@ -1,0 +1,6 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Abhishekhr,5.0,1.0,30.744054,76.733553,Restaurant,Bar,22,0,5127.200000000001,2.75
+PoliceStationSector39Chandigarh,5.0,1.0,30.745039,76.726398,GovernmentBuilding,PoliceStation,22,0,5127.200000000001,2.75
+EduCareTuitionCentre,5.0,7.0,30.745178,76.733438,EducationalInstitute,TuitionCenter,22,0,5127.200000000001,4.1
+Hometuitionintricity,4.9,19.0,30.745366,76.733292,EducationalInstitute,TuitionCenter,22,0,5127.200000000001,4.504545454545456
+MOTORINSURANCE||HEALTHINSURANCE||INChandigarh&MohaliPunjab,4.8,48.0,30.745306,76.737537,Office,InsuranceAgency,22,0,5127.200000000001,4.635294117647063

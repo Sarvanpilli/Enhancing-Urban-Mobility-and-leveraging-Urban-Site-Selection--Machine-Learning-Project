@@ -1,0 +1,10 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+90ML,5.0,2.0,30.73185,76.738947,Restaurant,Pub,17,1,10693.8,3.2
+SainiTaxiServices,4.8,70.0,30.731559,76.738831,Transportation,TaxiStand,17,1,10693.8,4.684931506849321
+BajwaTaxiServices,4.9,150.0,30.732257,76.739286,Transportation,TaxiStand,17,1,10693.8,4.843137254901948
+AmanDigitalStudio,5.0,1.0,30.732551,76.739416,Entertainment,MovieTheater,17,1,10693.8,2.75
+tours,5.0,1.0,30.732551,76.739415,Entertainment,Museum,17,1,10693.8,2.75
+SchoolOfRock,5.0,1.0,30.732544,76.73942,EducationalInstitute,MusicSchool,17,1,10693.8,2.75
+SureshPaintAndHardwareStore,4.5,2.0,30.732852,76.73944,Shop,HardwareStore,17,1,10693.8,3.0
+VerkaMilkBooth41/3Sector41Market,4.1,1140.0,30.73318,76.738407,Shop,Diary,17,1,10693.8,4.094488188976367
+SonyLED,4.9,9.0,30.731804,76.738848,Shop,Electronics,17,1,10693.8,4.175

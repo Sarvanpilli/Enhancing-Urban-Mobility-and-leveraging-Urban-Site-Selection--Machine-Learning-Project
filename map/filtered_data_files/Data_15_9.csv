@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Indoorbasketballstadium,4.4,45.0,30.728045,76.748034,EventVenue,Stadium,15,9,7462.599999999999,4.250000000000003
+AbhaClinic,4.1,92.0,30.726701,76.747451,Hospital,MaternityHospital,15,9,7462.599999999999,4.033684210526321
+artaStudios,5.0,34.0,30.72706,76.747995,EducationalInstitute,ArtSchool,15,9,7462.599999999999,4.756756756756757
+artaStudios,5.0,34.0,30.72706,76.747995,EducationalInstitute,MusicSchool,15,9,7462.599999999999,4.756756756756757

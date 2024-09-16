@@ -1,0 +1,17 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+WoodBlazedcafe,4.9,16.0,30.714516,76.729705,Restaurant,Cafe,10,0,6492.8,4.442105263157895
+BuffetPunjabExpress,3.8,128.0,30.714233,76.718056,Restaurant,Buffet,10,0,6492.8,3.758778625954206
+ShreeHariTemple,4.7,138.0,30.714067,76.711642,PilgrimagePlace,Temple,10,0,6492.8,4.642553191489365
+LakshmiNarayanMandir,4.7,80.0,30.714006,76.711715,PilgrimagePlace,Temple,10,0,6492.8,4.602409638554211
+Phase3ASector53BusStop,5.0,1.0,30.7146,76.726753,Transportation,BusStop,10,0,6492.8,2.75
+SpaceSevenFitness,4.6,282.0,30.714077,76.708557,Fitness&Wellness,Gym,10,0,6492.8,4.572631578947362
+WashingXpress,4.6,219.0,30.714304,76.717952,PersonalCare,Laundry,10,0,6492.8,4.564864864864881
+TheMillenniumSchool,4.0,139.0,30.715353,76.713296,EducationalInstitute,School,10,0,6492.8,3.95774647887324
+ApolloPharmacyMohaliPhase5,3.5,58.0,30.714444,76.71492,Shop,Pharmacy,10,0,6492.8,3.4262295081967213
+M/S.MannFootwear,2.3,3.0,30.714471,76.726393,Shop,ShoeStore,10,0,6492.8,2.15
+KakaShoesPalace,5.0,1.0,30.714407,76.726308,Shop,ShoeStore,10,0,6492.8,2.75
+SukhjeetBootHouse,5.0,1.0,30.715243,76.737993,Shop,ShoeStore,10,0,6492.8,2.75
+JainStationeryMart,4.4,44.0,30.714425,76.718247,Shop,Stationery,10,0,6492.8,4.246808510638301
+AniyaraBeautySaloon,4.8,28.0,30.713664,76.725458,Shop,BeautyParlour,10,0,6492.8,4.529032258064516
+StylenShine(BeautyParlour),4.9,33.0,30.713622,76.725456,Shop,BeautyParlour,10,0,6492.8,4.658333333333336
+AbhishekTravels,5.0,27.0,30.715378,76.738144,Office,TravelAgency,10,0,6492.8,4.7

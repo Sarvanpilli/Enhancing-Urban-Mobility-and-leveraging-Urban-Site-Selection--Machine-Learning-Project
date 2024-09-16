@@ -1,0 +1,12 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Chandigarhnation,4.6,18.0,30.705955,76.758718,Restaurant,FineDining,7,19,12268.2,4.228571428571428
+GamersArena,5.0,2.0,30.705768,76.758296,EventVenue,Arena,7,19,12268.2,3.2
+"StudyCentre,Sector45,Burail,NearLibrary,Chandigarh",1.0,2.0,30.707736,76.758645,GovernmentBuilding,Library,7,19,12268.2,1.6
+SHRIRAMTRADERS,4.9,11.0,30.708147,76.758962,GovernmentBuilding,Library,7,19,12268.2,4.278571428571428
+AxisBankATM,4.7,3.0,30.707427,76.758382,FinancialInstitution,ATM,7,19,12268.2,3.35
+ChandigarhMuayThai&TaekwondoAcademy,5.0,1.0,30.705768,76.758296,EducationalInstitute,ArtSchool,7,19,12268.2,2.75
+Singlashoessector45,4.3,15.0,30.705652,76.758915,Shop,ShoeStore,7,19,12268.2,3.916666666666666
+RubyClothingCo,4.6,11.0,30.705768,76.758296,Shop,Clothing,7,19,12268.2,4.042857142857144
+BhushanEnterprises,4.3,29.0,30.705768,76.758295,Shop,Stationery,7,19,12268.2,4.084374999999998
+VAGISHAFASHION,4.9,73.0,30.705768,76.758296,Shop,Clothing,7,19,12268.2,4.785526315789471
+GrewalInsuranceConsultants,5.0,2.0,30.707379,76.758411,Office,InsuranceAgency,7,19,12268.2,3.2

@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Sector-45,5.0,1.0,30.708555,76.756482,Transportation,RailwayStation,8,17,11436.800000000005,2.75
+GovernmentSeniorSecondarySchool,4.1,109.0,30.709138,76.756796,EducationalInstitute,School,8,17,11436.800000000005,4.043750000000007
+GovernmentSeniorSecondarySchool,4.1,109.0,30.709138,76.756796,EducationalInstitute,College,8,17,11436.800000000005,4.043750000000007
+ParmodComputer,5.0,12.0,30.709397,76.756759,Shop,Electronics,8,17,11436.800000000005,4.4

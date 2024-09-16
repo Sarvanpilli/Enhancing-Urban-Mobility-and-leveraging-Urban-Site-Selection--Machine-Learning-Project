@@ -1,0 +1,6 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Wineandbeershop,4.3,40.0,30.726112,76.751283,Restaurant,Bar,15,12,7337.600000000001,4.139534883720931
+DeepakDhabaVeg&Non-Veg,3.9,885.0,30.726195,76.751224,Restaurant,Buffet,15,12,7337.600000000001,3.89358108108114
+GurudwaraShriSangatSahib,4.5,41.0,30.727091,76.750522,PilgrimagePlace,Gurudwara,15,12,7337.600000000001,4.329545454545454
+GuptaHardwarestore,4.0,1.0,30.726812,76.750829,Shop,HardwareStore,15,12,7337.600000000001,2.5
+HotelRoyalPalace,3.5,160.0,30.727113,76.750578,Hotel,Hotels,15,12,7337.600000000001,3.4723926380368098

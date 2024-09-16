@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+LovelyDairy,4.0,75.0,30.691875,76.744538,Restaurant,IceCreamParlor,1,6,7831.000000000001,3.923076923076923
+SunilTour&Travels,4.7,69.0,30.692485,76.743972,Transportation,TaxiStand,1,6,7831.000000000001,4.587499999999995
+Harneez'shealthcare,5.0,1.0,30.690604,76.744664,Hospital,RehabilitationCenter,1,6,7831.000000000001,2.75
+LovelyDairy,4.0,75.0,30.691875,76.744538,Shop,Diary,1,6,7831.000000000001,3.923076923076923

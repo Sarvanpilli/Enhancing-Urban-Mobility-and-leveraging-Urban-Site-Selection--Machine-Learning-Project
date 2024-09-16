@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+IndianOil,4.1,2285.0,30.710815,76.743211,FuelStation,PetrolPump,9,5,11122.4,4.09724650349668
+IndianOil,4.1,2285.0,30.710815,76.743211,FuelStation,LPGStation,9,5,11122.4,4.09724650349668
+"KaranFillingStation,Chandigarh",4.2,19.0,30.710894,76.743042,FuelStation,LPGStation,9,5,11122.4,3.900000000000001
+GurudwaraSriGobindsar,4.5,27.0,30.712405,76.743029,PilgrimagePlace,Gurudwara,9,5,11122.4,4.25

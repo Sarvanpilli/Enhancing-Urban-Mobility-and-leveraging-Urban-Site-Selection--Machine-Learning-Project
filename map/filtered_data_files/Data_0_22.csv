@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+"shaktiChickenCentre,ShopNo.2",4.5,20.0,30.682793,76.762358,Restaurant,Cafe,0,22,8088.400000000001,4.173913043478261
+AnuragShoe,5.0,1.0,30.682775,76.762415,Shop,ShoeStore,0,22,8088.400000000001,2.75
+AnkurFootwear,5.0,1.0,30.685277,76.761634,Shop,ShoeStore,0,22,8088.400000000001,2.75
+ArchitGuptaAdvocate,5.0,1.0,30.689382,76.76245,Office,LawFirm,0,22,8088.400000000001,2.75

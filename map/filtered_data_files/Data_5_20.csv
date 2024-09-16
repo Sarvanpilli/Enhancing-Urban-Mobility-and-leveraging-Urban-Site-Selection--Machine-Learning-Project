@@ -1,0 +1,6 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+GurdwaraSriGuruSinghSabhaSector46D,4.8,399.0,30.701106,76.760158,PilgrimagePlace,Gurudwara,5,20,12488.8,4.779104477611909
+HDFCBankATM,3.1,14.0,30.70075,76.759749,FinancialInstitution,ATM,5,20,12488.8,2.905882352941177
+Tuitionclassesfor2ndto12thclass,5.0,35.0,30.702705,76.759724,EducationalInstitute,TuitionCenter,5,20,12488.8,4.7631578947368425
+TruInsuredBima-InsuranceCompanyinChandigarh,5.0,13.0,30.701772,76.760397,Office,InsuranceAgency,5,20,12488.8,4.4375
+BestLawyerNearMe,5.0,1.0,30.70086,76.75951,Office,LawFirm,5,20,12488.8,2.75

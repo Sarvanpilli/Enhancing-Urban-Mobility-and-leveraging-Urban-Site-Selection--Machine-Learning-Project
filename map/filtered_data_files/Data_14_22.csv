@@ -1,0 +1,13 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+Barista,4.2,700.0,30.723451,76.761828,Restaurant,Cafe,14,22,7900.400000000002,4.190611664295842
+ChurchofChandigarh,4.5,148.0,30.725367,76.761953,PilgrimagePlace,Church,14,22,7900.400000000002,4.450331125827814
+IndianMedicalAssociation(IMA)Complex,4.3,58.0,30.725533,76.762479,EventVenue,ConventionCenter,14,22,7900.400000000002,4.186885245901643
+IndianMedicalAssociation(IMA)Complex,4.3,58.0,30.725533,76.762479,EventVenue,ConferenceCenter,14,22,7900.400000000002,4.186885245901643
+icaibhavan,4.6,24.0,30.725715,76.761656,GovernmentBuilding,Library,14,22,7900.400000000002,4.311111111111109
+GuruNanakMultispecialityCHospital,3.7,11.0,30.72557,76.762333,Hospital,GeneralHospital,14,22,7900.400000000002,3.335714285714286
+PracheenKalaKendra,4.3,371.0,30.723564,76.762616,EducationalInstitute,ArtSchool,14,22,7900.400000000002,4.28155080213901
+PracheenKalaKendra,4.3,371.0,30.723564,76.762616,EducationalInstitute,MusicSchool,14,22,7900.400000000002,4.28155080213901
+Kaydee'sGuitarAcademy,5.0,3.0,30.724036,76.76169,EducationalInstitute,MusicSchool,14,22,7900.400000000002,3.5
+PracheenKalaKendra,4.3,371.0,30.723564,76.762616,EducationalInstitute,DanceSchool,14,22,7900.400000000002,4.28155080213901
+Secure-NetTechnologies,4.8,283.0,30.724111,76.762223,Office,CorporateOffice,14,22,7900.400000000002,4.7706293706293454
+BBMBVVIPGuestHouse,4.4,387.0,30.724678,76.762147,Hotel,Resorts,14,22,7900.400000000002,4.381538461538488

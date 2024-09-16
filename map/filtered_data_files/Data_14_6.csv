@@ -1,0 +1,5 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+CommunityCentre,4.0,360.0,30.72486,76.744555,GovernmentBuilding,CityHall,14,6,8724.000000000004,3.983471074380165
+StateBankOfIndiaATM,3.8,877.0,30.723369,76.744882,FinancialInstitution,ATM,14,6,8724.000000000004,3.793863636363687
+StateBankofIndia,2.5,22.0,30.723354,76.744926,FinancialInstitution,Bank,14,6,8724.000000000004,2.44
+StateBankOfIndiaATM,3.8,877.0,30.723369,76.744882,FinancialInstitution,Bank,14,6,8724.000000000004,3.793863636363687

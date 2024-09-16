@@ -1,0 +1,7 @@
+Name,Rating,NumberofReviews,Latitude,Longitude,Category,Sub-Category,Row,Column,Population,Rating_by_Audience
+PoliceBeatBox,5.0,1.0,30.723247,76.76274,GovernmentBuilding,PoliceStation,14,23,6798.000000000002,2.75
+HDFCBank,2.6,62.0,30.723618,76.763126,FinancialInstitution,Bank,14,23,6798.000000000002,2.5723076923076893
+YinaerialYoga,4.7,18.0,30.723801,76.763378,Fitness&Wellness,YogaStudio,14,23,6798.000000000002,4.314285714285715
+SmilingWalls,4.8,29.0,30.723757,76.763621,EducationalInstitute,ArtSchool,14,23,6798.000000000002,4.5375
+MongaAdvertising,4.7,14.0,30.723714,76.763516,Office,AdvertisingAgency,14,23,6798.000000000002,4.223529411764707
+AKAIINDIA|AkaiFireTV|AkaiTowerSpeaker|AkaiLEDTV|AkaiWashingMachine|AkaiAC|AkaiHomeTheatre,4.7,176.0,30.723691,76.76334,Office,CorporateOffice,14,23,6798.000000000002,4.654748603351968
