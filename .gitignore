@@ -1,0 +1,169 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Rope
+.ropeproject
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# pytype
+.pytype/
+
+# Cython
+cython_debug/
+
+# Data Files (Large datasets)
+*.csv
+!Dataset/dataset.csv
+Dataset-2/*.csv
+Model Training/*.csv
+Model Training/filtered_data_files/
+
+# Exclude specific large CSV files
+Model Training/custom_dataset3.csv
+Model Training/dataset.csv
+Model Training/output.csv
+Model Training/input.csv
+
+# HTML and Map Files
+*.html
+Model Training/*.html
+
+# Compressed Files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+Model Training/*.zip
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+*.out
+*.err
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Cache
+.cache/
+*.cache
+
+# Selenium
+chromedriver
+chromedriver.exe
+geckodriver
+geckodriver.exe
+*.log
+
+# Model Files (if large)
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Coverage Reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Documentation
+docs/_build/
+site/
+
+# Backup Files
+*.bak
+*.backup
+
+# Large Data Folders
+Model Training/filtered_data_files/*
+Dataset/Event Venue_folder/*
+Dataset-2/*
+
+# Keep folder structure but ignore contents
+!Dataset/Event Venue_folder/.gitkeep
+!Dataset-2/.gitkeep
+!Model Training/filtered_data_files/.gitkeep
